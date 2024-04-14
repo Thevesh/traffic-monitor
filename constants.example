@@ -3,4 +3,4 @@ TOKEN_API_GOOGLE = '' # Your GCP (Google Cloud Platform) API token token
 
 # Telegram tokens
 TELEGRAM_BOT = '' # Put your bot ID
-TELEGRAM_CHANNEL_RAYA = (TELEGRAM_BOT, -1002044693954) # Put your group ID, recommend using IDBot
+TELEGRAM_CHANNEL_RAYA = (TELEGRAM_BOT, -1002044693954) # Put your group ID, recommend using IDBot @myidbot
