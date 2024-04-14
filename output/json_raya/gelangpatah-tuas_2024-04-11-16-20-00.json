@@ -1,0 +1,189 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJLzzg2HcJ2jERC-f_JtaEg1I",
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "transit_station"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJ210ff4wF2jERzPsYJs_8GK4",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 1.3920174,
+                    "lng": 103.6626829
+                },
+                "southwest": {
+                    "lat": 1.3237839,
+                    "lng": 103.5895039
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "11.5 km",
+                        "value": 11463
+                    },
+                    "duration": {
+                        "text": "14 mins",
+                        "value": 862
+                    },
+                    "duration_in_traffic": {
+                        "text": "16 mins",
+                        "value": 977
+                    },
+                    "end_address": "2 Tuas Rd, Singapore 638485",
+                    "end_location": {
+                        "lat": 1.3237839,
+                        "lng": 103.6626829
+                    },
+                    "start_address": "Kampung Bukit Kecil, Kampung Tiram Duku Kiri, 81550 Gelang Patah, Johor, Malaysia",
+                    "start_location": {
+                        "lat": 1.3920174,
+                        "lng": 103.5895039
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "7.0 km",
+                                "value": 6987
+                            },
+                            "duration": {
+                                "text": "8 mins",
+                                "value": 491
+                            },
+                            "end_location": {
+                                "lat": 1.3507521,
+                                "lng": 103.6333049
+                            },
+                            "html_instructions": "Head <b>southeast</b> on <b>Second Link Expy</b>/<wbr/><b>E3</b><div style=\"font-size:0.9em\">Toll road</div><div style=\"font-size:0.9em\">Entering Singapore</div>",
+                            "polyline": {
+                                "points": "c{nGkigwRvHgG~B}A`Ai@PKr@[x@]`A]pAe@nA_@|Be@lC_@zBYl@Kf@GtBW~B[pEs@xAQx@Kb@Id@O~@a@PKdAe@TMr@a@pBkBVWpAyAnAuA~AuBNSTc@Xs@He@@K@U@k@?AAo@Bg@@IDYN_AT_Av@}CNi@Pa@LSRW^[d@_@^]\\g@Tk@DOJa@v@eDZqAp@sCBMJ_@BOp@wCjA}EDOBK@Ej@yBhAgDt@eB^y@Ra@`AiBt@qAHIr@cA@ABENS@ATY?AVYFE~AkB`B}Af@a@JKPKHG@A|@q@p@c@@AdAo@~A}@rAs@|CuArB{@r@[LGvAm@FC\\Qz@a@@AZOl@YpBoAVMhBkAdAu@`BoAj@c@p@i@pAiAb@c@RQPSdBeBd@i@bAkAj@q@r@_A`AwAj@w@vB_DjAaB|A}B\\g@JQT[hAeBXa@NWHOrKcPjHuK`G{IZg@fBkCf@s@R[lBoCt@gA|@oAXc@|@qAZe@h@y@^g@\\g@FIFE"
+                            },
+                            "start_location": {
+                                "lat": 1.3920174,
+                                "lng": 103.5895039
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 163
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 40
+                            },
+                            "end_location": {
+                                "lat": 1.3498611,
+                                "lng": 103.6344677
+                            },
+                            "html_instructions": "Continue onto <b>Malaysia–Singapore Second Link</b>/<wbr/><b>Second Link Expy</b>",
+                            "polyline": {
+                                "points": "eyfGc{owRDIbCeDJQT]BE@C"
+                            },
+                            "start_location": {
+                                "lat": 1.3507521,
+                                "lng": 103.6333049
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 346
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 122
+                            },
+                            "end_location": {
+                                "lat": 1.3485678,
+                                "lng": 103.6372527
+                            },
+                            "html_instructions": "Slight <b>right</b>",
+                            "maneuver": "turn-slight-right",
+                            "polyline": {
+                                "points": "ssfGmbpwRPMVUPSVg@BGn@eCXiAH[XaAf@aB@CFWHM?I"
+                            },
+                            "start_location": {
+                                "lat": 1.3498611,
+                                "lng": 103.6344677
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.9 km",
+                                "value": 872
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 67
+                            },
+                            "end_location": {
+                                "lat": 1.3429676,
+                                "lng": 103.6425228
+                            },
+                            "html_instructions": "Merge onto <b>Tuas Checkpoint Viaduct</b>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "qkfGyspwRL@T@N?N?NCNCPELGFC\\UbAeAbCkCfAmAlAqAb@a@`@c@bFyFf@i@TWfAmA|BeCh@i@"
+                            },
+                            "start_location": {
+                                "lat": 1.3485678,
+                                "lng": 103.6372527
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3.1 km",
+                                "value": 3095
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 142
+                            },
+                            "end_location": {
+                                "lat": 1.3237839,
+                                "lng": 103.6626829
+                            },
+                            "html_instructions": "Continue onto <b>AYE</b>",
+                            "polyline": {
+                                "points": "qheGwtqwRlAyAp@s@t@y@`@_@`@a@nDsDzBaCp@w@fAkAn@w@NOjBsBlCqCfCsCd]q^jBuBvC_DdCqC|B}B~KwL|AeBh@o@VU\\]X]`EkElBqBNOhAmA?AVYf@i@|@{@v@s@TO"
+                            },
+                            "start_location": {
+                                "lat": 1.3429676,
+                                "lng": 103.6425228
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "c{nGkigwRvHgG~B}ArAu@lBy@rCcAnA_@|Be@hGy@jIgAhK{AdBq@vAq@hAo@hCcC`DoDnBiCn@wAJq@BaAAq@Dq@TyAlA}E`@kA`@k@dA{@^]\\g@Z{@pCmLdAuEvA_Gj@yBhAgDt@eBr@{AvB{DbAuAf@q@^_@~AkB`B}Ar@m@ZSpBwAzFcDrIuDxDeB\\Q~CiB`CyAfDeC|AmAtBmBd@e@jCoCnB}BtBwClIwLhC{DfMmRpTe\\pKsOlG{IXc@RQh@i@Zo@lBmHh@eBPe@?IL@d@@^C`@ITK\\UbAeAjEyEpBsBlHgIzEkFvBcCfBmBbAaAjHuHxDkEfi@kk@bGuGdCqC|B}B|N}O`AeAfJyJpByBf@i@tBoBTO"
+            },
+            "summary": "Second Link Expy/E3 and AYE",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

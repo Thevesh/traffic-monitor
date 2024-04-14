@@ -1,0 +1,378 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJEcU_vS1t2jERNO3FmN-qrUM",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJwcmek0sS2jERHiYgdDFpKWY",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 1.4798229,
+                    "lng": 103.7712159
+                },
+                "southwest": {
+                    "lat": 1.4240687,
+                    "lng": 103.7628283
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "7.0 km",
+                        "value": 6989
+                    },
+                    "duration": {
+                        "text": "12 mins",
+                        "value": 727
+                    },
+                    "duration_in_traffic": {
+                        "text": "21 mins",
+                        "value": 1267
+                    },
+                    "end_address": "Bukit Timah Expy, Singapore",
+                    "end_location": {
+                        "lat": 1.4240687,
+                        "lng": 103.7712159
+                    },
+                    "start_address": "2, Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor, Malaysia",
+                    "start_location": {
+                        "lat": 1.4798229,
+                        "lng": 103.7643429
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 576
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 71
+                            },
+                            "end_location": {
+                                "lat": 1.4748131,
+                                "lng": 103.7630355
+                            },
+                            "html_instructions": "Head <b>south</b> on <b>Jalan Tebrau</b>/<wbr/><b>Laluan Persekutuan 3</b>/<wbr/><b>AH18</b> toward <b>Jalan Kuning</b>",
+                            "polyline": {
+                                "points": "{_`HcnixRd@HhGdATFH@bDj@p@LjAPxCf@lAPtATx@L"
+                            },
+                            "start_location": {
+                                "lat": 1.4798229,
+                                "lng": 103.7643429
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 164
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 27
+                            },
+                            "end_location": {
+                                "lat": 1.4733649,
+                                "lng": 103.7628449
+                            },
+                            "html_instructions": "Slight <b>left</b>",
+                            "maneuver": "turn-slight-left",
+                            "polyline": {
+                                "points": "q`_H_fixRXCj@?lALhALbAN"
+                            },
+                            "start_location": {
+                                "lat": 1.4748131,
+                                "lng": 103.7630355
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "8 m",
+                                "value": 8
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 1
+                            },
+                            "end_location": {
+                                "lat": 1.4732951,
+                                "lng": 103.7628283
+                            },
+                            "html_instructions": "Continue straight",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "ow~GwdixRJ@"
+                            },
+                            "start_location": {
+                                "lat": 1.4733649,
+                                "lng": 103.7628449
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 200
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 20
+                            },
+                            "end_location": {
+                                "lat": 1.472497,
+                                "lng": 103.7643931
+                            },
+                            "html_instructions": "Turn <b>left</b> toward <b>Jalan Lingkaran Dalam</b>/<wbr/><b>Route 188</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "cw~GudixR`@QDI?ADKXeAV}@Vs@\\gAHM"
+                            },
+                            "start_location": {
+                                "lat": 1.4732951,
+                                "lng": 103.7628283
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.4 km",
+                                "value": 437
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 31
+                            },
+                            "end_location": {
+                                "lat": 1.4702344,
+                                "lng": 103.7675635
+                            },
+                            "html_instructions": "Continue onto <b>Jalan Lingkaran Dalam</b>/<wbr/><b>Route 188</b>",
+                            "polyline": {
+                                "points": "cr~GmnixRPYNMtBgFXo@|@uAZg@\\a@\\a@`@e@Z[~@u@"
+                            },
+                            "start_location": {
+                                "lat": 1.472497,
+                                "lng": 103.7643931
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 107
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 11
+                            },
+                            "end_location": {
+                                "lat": 1.4695674,
+                                "lng": 103.7682433
+                            },
+                            "html_instructions": "Slight <b>left</b> toward <b>Jalan Sultan Iskandar CIQ Jb - Singapore</b>",
+                            "maneuver": "turn-slight-left",
+                            "polyline": {
+                                "points": "}c~GgbjxRFQBEBEdAcARQXS"
+                            },
+                            "start_location": {
+                                "lat": 1.4702344,
+                                "lng": 103.7675635
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "24 m",
+                                "value": 24
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 2
+                            },
+                            "end_location": {
+                                "lat": 1.4693908,
+                                "lng": 103.7683708
+                            },
+                            "html_instructions": "Keep <b>right</b> to continue toward <b>Jalan Sultan Iskandar CIQ Jb - Singapore</b>",
+                            "maneuver": "keep-right",
+                            "polyline": {
+                                "points": "y_~GofjxR\\UDC"
+                            },
+                            "start_location": {
+                                "lat": 1.4695674,
+                                "lng": 103.7682433
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.4 km",
+                                "value": 446
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 84
+                            },
+                            "end_location": {
+                                "lat": 1.4657678,
+                                "lng": 103.7683955
+                            },
+                            "html_instructions": "Continue straight onto <b>Jalan Sultan Iskandar CIQ Jb - Singapore</b>",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "u~}GigjxRdBeA@AZUDELIHE@AFEFCFAHC\\ATAj@E^A@?XCH?N?L?H@HBNF\\RD@F@^J?@`@J`@JbAXx@PB@BBB@DB@B@@@D"
+                            },
+                            "start_location": {
+                                "lat": 1.4693908,
+                                "lng": 103.7683708
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.5 km",
+                                "value": 1521
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 128
+                            },
+                            "end_location": {
+                                "lat": 1.4545458,
+                                "lng": 103.7686665
+                            },
+                            "html_instructions": "Merge onto <b>Johor Cswy</b>/<wbr/><b>AH2</b><div style=\"font-size:0.9em\">Entering Singapore</div>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "ah}GogjxR@@LNvBfFp@|AN^p@~ATh@DLJPLRJJFBF@B?J?R?N@R@TBH?J?D?H?J@J?JAJARIXMbAg@FCVM\\WROXMXKx@U|@Q\\I\\KFAJEHCNGXK@?NG^OHCb@SPK\\QVOFC?A^Q?A@?XOBA?AHERG@A@?VKDA@A^MREHABAD?TAZAN?NATAR?~@A@Ab@@N@PAR?R?J?NAVA\\EPEPENE^Kd@SLEZMVKb@SvA_@|Cs@"
+                            },
+                            "start_location": {
+                                "lat": 1.4657678,
+                                "lng": 103.7683955
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 600
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 76
+                            },
+                            "end_location": {
+                                "lat": 1.4493793,
+                                "lng": 103.7702117
+                            },
+                            "html_instructions": "Continue onto <b>Johor Cswy</b>",
+                            "polyline": {
+                                "points": "}a{GeijxRjCg@vCq@tH{AhFgAnCg@t@M"
+                            },
+                            "start_location": {
+                                "lat": 1.4545458,
+                                "lng": 103.7686665
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.7 km",
+                                "value": 719
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 142
+                            },
+                            "end_location": {
+                                "lat": 1.4433408,
+                                "lng": 103.7685381
+                            },
+                            "html_instructions": "Continue straight onto <b>Woodlands Crossing</b>",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "sazGyrjxRrBYPEPCTE\\?X@P@L@v@Fr@Fb@Fn@Jb@F^J^LLBhG`BVFpA\\bBd@nAr@vAdA"
+                            },
+                            "start_location": {
+                                "lat": 1.4493793,
+                                "lng": 103.7702117
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.8 km",
+                                "value": 810
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 65
+                            },
+                            "end_location": {
+                                "lat": 1.4360903,
+                                "lng": 103.7686381
+                            },
+                            "html_instructions": "Slight <b>left</b> onto <b>Woodlands Checkpoint Viaduct</b>/<wbr/><b>Woodlands Crossing</b>",
+                            "maneuver": "turn-slight-left",
+                            "polyline": {
+                                "points": "{{xGkhjxRv@VPBZAb@?HA~@C`@?rBAXA@?TA`@ANAzBCB?`CCL?j@?j@An@?zAA`A?pA?tBA~AAfAGt@E"
+                            },
+                            "start_location": {
+                                "lat": 1.4433408,
+                                "lng": 103.7685381
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.4 km",
+                                "value": 1377
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 69
+                            },
+                            "end_location": {
+                                "lat": 1.4240687,
+                                "lng": 103.7712159
+                            },
+                            "html_instructions": "Continue onto <b>Bukit Timah Expy</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                            "polyline": {
+                                "points": "qnwG_ijxRjA?t@@dGG|CIv@CxAKbAIj@G\\Ct@IdAOzBa@t@Qd@Mh@MFCfBc@PEv@U|@Sb@Kh@MpA[rA]bBa@VG|Aa@`ASd@Kr@Kx@MTEzAQhAMH?|@K"
+                            },
+                            "start_location": {
+                                "lat": 1.4360903,
+                                "lng": 103.7686381
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "{_`HcnixRjWlEbDf@x@LXCj@?lALlC\\J@`@QDKnAcE\\gAHMPYNMnCwGxA}Bz@cA|@aA~@u@FQFKxAuAv@i@hCaB^W`@OtDOV@XJb@Tf@LbAX|Bj@FDLJBFLNvBfF`A|BfAhCP^X^NDN?lAFd@?V@VCxBcAbBcArAa@zA[z@Wz@[~As@xBkA|@_@f@Qf@I|DKxA@fACpAWrAe@r@Yb@SvA_@hH{AvCq@tH{AxJoBhDg@b@Ir@EpBLjDb@vI~BhBd@bBd@nAr@vAdAv@Vl@@nCEvIMfOGtEC|BM`C@bLQpCOnBQrAM`Eq@lCq@nFsAnOsDxAWnASlFk@"
+            },
+            "summary": "Woodlands Crossing",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

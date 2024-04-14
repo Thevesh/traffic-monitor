@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# local workfiles + secrets
+playground.ipynb
+constants.py
+
 # Distribution / packaging
 .Python
 build/

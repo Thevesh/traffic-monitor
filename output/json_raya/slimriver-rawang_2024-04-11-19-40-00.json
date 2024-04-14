@@ -1,0 +1,237 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJ26IvrsycyzERO1jhiC905e4",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJW1dFVVdCzDERn3W6ragzpQg",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 3.830213,
+                    "lng": 101.5760154
+                },
+                "southwest": {
+                    "lat": 3.3015317,
+                    "lng": 101.4046184
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "73.6 km",
+                        "value": 73641
+                    },
+                    "duration": {
+                        "text": "56 mins",
+                        "value": 3384
+                    },
+                    "duration_in_traffic": {
+                        "text": "1 hour 4 mins",
+                        "value": 3849
+                    },
+                    "end_address": "47, Jalan Maxwell, Pusat Bandar Rawang, 48000 Rawang, Selangor, Malaysia",
+                    "end_location": {
+                        "lat": 3.3205246,
+                        "lng": 101.5760154
+                    },
+                    "start_address": "22, Lrg Stesen, Kampung Manggis, 35800 Slim River, Perak, Malaysia",
+                    "start_location": {
+                        "lat": 3.830213,
+                        "lng": 101.4046184
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "11.9 km",
+                                "value": 11934
+                            },
+                            "duration": {
+                                "text": "12 mins",
+                                "value": 699
+                            },
+                            "end_location": {
+                                "lat": 3.7406736,
+                                "lng": 101.4580195
+                            },
+                            "html_instructions": "Head <b>southeast</b> on <b>Route 1</b> toward <b>Jln Stesen</b>",
+                            "polyline": {
+                                "points": "yakV{q|iRHWFW`@yAPm@Je@Lq@DKDKHMv@gADEDCFGJIfA}@NOHIn@o@\\Qb@a@z@q@BAB?d@s@`@a@zBsBVWlBiBpAgA^k@d@a@XYh@g@l@i@~BwBz@a@h@e@FEl@g@pAkApCqC|AsAPOf@c@b@a@fBsBb@o@n@m@t@o@XWxHyG\\KXUhCgBp@e@t@e@fBuAz@m@LKdAs@z@m@ZUjEyClTuO~JeHDE\\UVSzAeA|DqC\\WnE_DxFeE~@s@bAs@XSh@_@b@YNMXSNMXQtC{B|@q@ZUxAeAx@o@rA{@zAcAfIaG~@q@j@a@vCuBnBwArAaA`As@vEkD`@_@rB{AjAy@dAs@j@c@BA\\IRO\\[dFsDtByAvB}Al@e@dCkBzAoArAeArGkFNMjB}AbHyFjFgEnAaAx@q@HEp@i@~@o@f@[d@Y|@c@PKVMh@Yh@Wv@]@?\\OLEj@Sf@O`@M`@O^MPEzKqDlAa@PITMpC_A|Am@fBe@fBq@dBg@j@QnAa@hIkCTITITGTITITITITITGRITGRGTITGRGTIn@SLEZKrF_BzBs@~@[~C}@lA]VIPC~Bs@LE`Bg@|Ac@ZIBA`@K\\G`@IZG\\Ed@Eb@E`@E`@C^CVAz@A^Cr@?j@?`@@r@Bz@Dl@Bn@Br@B|@DfAFN?`ADb@B`@BvBHvCNdBH`@@d@BdADh@?`@?^?DAZAZAXCTEVE\\KNGLCPILGBAzHyCrGoCl@Y|Ao@z@]xBg@|Dy@JC~@OVCj@EtCq@^G~Aa@j@QnAU~Ds@t@S@Af@IpNmCfF_A|Cg@"
+                            },
+                            "start_location": {
+                                "lat": 3.830213,
+                                "lng": 101.4046184
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.3 km",
+                                "value": 1281
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 114
+                            },
+                            "end_location": {
+                                "lat": 3.737067699999999,
+                                "lng": 101.4630603
+                            },
+                            "html_instructions": "Take the ramp to <b>Kuala Lumpur</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "ramp-left",
+                            "polyline": {
+                                "points": "eryUs_gjRh@ULGHGDEBEP_@Fm@RqAb@eCF]Hk@Jg@Nu@De@@S?M?OCWCQGUAIKUU_@W[OMGGKGKEQGOGYMe@OA?MCOCQCM?M?OBG@KDGBGDKFIHEHCBCFCJCLCL?H@RDPDLFLLJHFLFJDLBJ@J?R?PCn@QBA`@M@?vAg@l@UXKnIuDLG|@_@dAc@BADAB?DAH?"
+                            },
+                            "start_location": {
+                                "lat": 3.7406736,
+                                "lng": 101.4580195
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "55.1 km",
+                                "value": 55126
+                            },
+                            "duration": {
+                                "text": "33 mins",
+                                "value": 1957
+                            },
+                            "end_location": {
+                                "lat": 3.3058706,
+                                "lng": 101.5450492
+                            },
+                            "html_instructions": "Merge onto <b>Lebuhraya Utara - Selatan</b>/<wbr/><b>AH2</b>/<wbr/><b>E1</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "u{xUc_hjRxD_BtDyAlEqA\\KdIoBn@MnBa@zAYpHkA`Ce@tC{@`@KFCVI@ApAc@dAe@r@[tCwAjBsA|AoAzAyAdAoARU~BiDrAeCdCqElBgDvBkD|@sAfC{CzAsArAgA`Ao@ZUZSnAw@r@_@lAm@vAk@xBw@|C{@fAStB_@jEe@jBMzAGRAtIUdDKxBOzAMBAD?`@G~Dk@r@Q`@K`@KJCpA_@f@O`@MVIdAa@xBeAtCaBrCqBjBqA|FkErHwFv@k@@AxFgE`SeODCTQDCdJ_H~BgBdWiRpBuALKLIpCoBtJ_GpF{Ct@a@bSaLpHcE`B_A\\SjGqD\\SpEkC^UnDaCbDcChCsBnEgEXYLMrEeFfE{F|BgDrBwD`ByCnBuDP]P_@x@{ArDeHRi@Ri@^o@n@eAd@_A\\o@|BsETc@f@cAP]Zo@Ra@vC{FlDeH~B_FhBoDrC{FtAeC`AeBR]BCPU?A^c@x@_AZ]r@m@r@k@RKl@a@TKb@Sp@[~@[`AYt@Mz@Qf@K`AMfLaAhBQNAjDWpAI|@K|@MpASbAUdBa@dBo@`Ac@tAk@zA}@hAy@LIpLqJz@s@PQf@a@RQ`FaEdCqBHGnEuDhB}AVUtAgA~@q@bAi@BCh@W`Bq@lA]^IlA[vAUrBSB?lBE`@AjBAb@?J?bCAb@?|BA~CAtDAb@?b@?b@A`@?rDAb@?X?zGMhCCfCAj@@rC?jC@~E?bACb@?F?ZAvJMlD?dA?v@Dx@Fp@Fr@HPDjAVzAd@dAb@tAr@LJTNFDb@XpAdA~@bA^d@j@v@p@nAp@`Br@fCj@zBFZb@lBx@xD|@~DH`@dA|EvAjGj@~BHZRn@d@nARf@Xj@V^b@l@NRVZNPfAfAh@`@l@d@v@d@p@Zn@Xj@R`@LB@ZHhAXr@Jn@Hb@DvAH|A@lACh@CbAMb@ETEfAQpCe@~E{@PEb@G|AYdDm@r@Kh@KZEFAn@Ir@InAGp@?L?x@A|ADfAJvAR|@RNDJ@`Bj@rAj@v@d@z@h@z@p@PNr@p@~AxAlBlBHFLNJHj@f@VTb@b@r@p@j@b@p@f@r@`@p@Z@@t@ZPHb@Nn@Pv@RNBx@L`ALnAJZ?b@@D?\\?b@?b@Ct@C|@Ih@GPEf@K\\GJCTGVGDA`Bg@h@Sz@a@NGLGdEiBpAk@pAm@vDaBpGsCZOjF}BfJ}DfHcDj@YrHaDh@QfB_@dAUfAQ~@Mr@E`AEz@A`A?zADn@D`AHbC`@|MxB~Dt@nARdAPbCf@pJbB^FB@ZDp@Jb@HpGbAtB^z@N|Ez@^FhARpBb@^FtBd@dEdA`ATfBh@F@PFF@~Ab@NDNDpFzA`@L\\Hz@VtF|ALBhCn@tA\\p@Jv@Ln@JlALnAJf@BvBFhB?`A?bBCb@Ap@?@?|BGR?NAb@Ab@AfACzFOb@Ab@Ab@AH?dCGfAC`@Af@AvKIR?xC?xF?P?R?dGBF?dB?zAIZC|@GhBOp@KbAKb@GfB_@fDu@nBm@`Be@j@Q`@MLEREn@S^Mr@SnDeA`@M`@Md@O`@MdA[bD}@BA\\Kt@StHyBBAtC{@h@QjAYrCu@nA]b@KpDaAbCq@xF}AHCVGfB_@pDaAnBg@`Bc@|Cw@\\Id@O`@K`@K`@M`@K^MRGnA]dBe@vBm@xAc@l@UlCo@f@M`A[fBe@jBi@lBa@l@MNCdAOHCVA^Cx@El@CrBAfAHx@DzAR`C\\@?bDh@nC`@TBt@L|Cf@nEt@b@FpHjAF@l@J`ALb@Bf@D`@@r@Bl@?z@Ch@E`@CfAO`@GJAlA[p@Sd@Qh@St@_@b@Sn@_@r@e@VQlFqDjD}BjCgBn@c@rA}@lCiBbAu@`@W@ALILKfDuBb@YhD_CrBuA\\SLKzCoBl@[`Ae@t@Wl@Sv@Ut@O~@Q\\Cj@EPCjAI`EE|B@|ABzA@tDDvCB|@@`@@^@~GFb@?nCBdFDb@?bIJR?R@f@A|DA~AEhAKn@KfAQbCk@lA]lAe@fCqAhBgAd@WBAXQ~AaAnBiA\\S\\STMFEvCeBhAq@`BaAlKsFd@S~@a@DChAa@vAa@\\Ij@O`B[zBYtBSZAH?b@ClAIvG_@lCOnAGdCM~Ie@zEWb@CfAGjBKpDSb@C|DUxIa@b@Cb@CzJg@nJw@~CMjBK`CMxCMFAbCOnBIDAb@AdCMxCQ`DQ`DG|@Ap@@`CHzAJjAJdCZvATfJdB~AVx@H~@HfADn@?r@AbACPA^CHAp@KTE`@G`@G@?`@MdA[`A]bAe@RMn@_@x@k@bB{Ah@q@p@_ALUXk@d@eA`A{B^_AVk@f@qABCr@wAh@y@d@q@Z]FIb@a@PQNQv@i@j@a@n@_@v@a@lAi@XKNGf@O`AU|@MfAMh@EhBEnA?pQv@zH\\jFXtDNtADxAJN?fAFfBJhET~ANnBVxAVpA\\b@JfBj@PFfAb@rAj@`CdAdEbB~CfAzBj@pEr@fCVzBJn@@x@BtA?zAC~AKlAGDA`@EnAOzAWfAW`@IVGlA]TGhAa@fAc@vAq@f@UnAs@t@g@|AcATOFERMFGpByAnCiBZUlAy@d@Y\\ULGj@a@\\SlAy@bAo@ZSRM~AkAv@i@ZU|G{Ex@i@ZUZUx@k@ZU\\UNKdImGfA_Av@o@pBaBZW@AVUXWfCwBXWZWRQDEZUfCsBvDcD|@q@XS@AZSn@c@JE^QJEzAq@fA]p@SrB[fAK~AMVC`SqAtDWpCMxAGnAAfB?rCPpANfBXf@LzAl@~BnAXN|@h@x@h@\\RpChBvDhCtBvAXRr@d@VPRPb@XPJj@^l@Zx@b@l@XbAf@x@Zr@XF@VH`@JTFbB`@tAV|@Lf@Fr@Hl@FnAP`ABzAL^B\\DvHh@|Jx@nDXbDZzEZdIp@~Jv@dDVbL|@|@FvCPT@L@b@@b@@b@@j@@tCGlBCb@Ab@CbDUdBWbCc@zBk@B?\\MvBs@j@S\\M`@Q|@_@~Aw@zCiBpBsAr@e@\\Ur@g@lBwAbCeBrByAdBeAhD}ArDeAvCg@~AOjBKbGStLe@\\A~Oc@rH]jAEtIQ~BDD@fALhALbCj@RDLFlBv@jBdAHDhA~@VV~A`BjC|CrCjDn@t@VZVZTXtBfCVZt@|@vAdBTXVZjC`DbDxDvEvFVZVZ|DvEFHtA`BVZVZ`BpBRRXXJJJLXXVXZ\\\\\\\\\\PN^\\ZV\\TVP`@Tp@ZDBjAd@x@XVFb@J^H^Fj@H~@Jh@D`@Bv@@fA?t@EZC"
+                            },
+                            "start_location": {
+                                "lat": 3.737067699999999,
+                                "lng": 101.4630603
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "4.7 km",
+                                "value": 4677
+                            },
+                            "duration": {
+                                "text": "8 mins",
+                                "value": 484
+                            },
+                            "end_location": {
+                                "lat": 3.3170518,
+                                "lng": 101.5751058
+                            },
+                            "html_instructions": "Take exit <b>116-Rawang</b> to merge onto <b>Jalan Batu Arang</b>/<wbr/><b>B27</b>",
+                            "maneuver": "ramp-left",
+                            "polyline": {
+                                "points": "utdSq_xjR`@OZCj@GNCtC]XEjBWrEs@p@Kh@MLEZK^OBCNKVULSHMFO@IDK@K@M?Q@E?MAMCQESAAIQEIKOQSQOA?YQWKKE_@Oa@Mg@MSE_AUEAo@MqAWcASSEEAUGEAcAWaAYe@OSIa@M]MkBi@k@KaAUSGSEW?S@UBIDGBWL]NGSGKMYCGYu@iAqCKUCG[cAEOAASaAGo@AE?IAY?i@C_A?GDSBIKeAAUCSGUOu@_@oAIWQ]ACYc@k@s@AAi@y@o@aAMc@CIM_@K_@Kg@Mo@G_@?ACYAICUA_@AS@W@oCBq@BQ?[?G?s@A[Ea@AEE[SeAOw@Qm@MOSq@Ii@AIKi@Ec@Cc@A_@@W@UFk@N_B@IBKBKNu@Pi@Jc@XwAVaABG@GBIFIJIPc@F]B[@_@?[CS?EGUO]SUm@o@e@e@o@i@s@q@mB{A[QOKw@_@e@YSQOOGG_@g@Ye@U[S[W]W[Y[Y_@aA[}Ae@OEA?]O_A_@s@Ys@_@UMMIIAEAIE[SMMGIOQW_@Si@]o@ASCUCSKcAKgBEk@SgCG}A?E@aA?kB?OBOAwA?_@?a@?Q"
+                            },
+                            "start_location": {
+                                "lat": 3.3058706,
+                                "lng": 101.5450492
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 456
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 66
+                            },
+                            "end_location": {
+                                "lat": 3.3208808,
+                                "lng": 101.5750118
+                            },
+                            "html_instructions": "Turn <b>left</b> to merge onto <b>Jalan Rawang</b>/<wbr/><b>Route 1</b> toward <b>Tg. Malim</b>/<wbr/><b>Rawang</b><div style=\"font-size:0.9em\">Continue to follow Route 1</div>",
+                            "maneuver": "ramp-left",
+                            "polyline": {
+                                "points": "qzfSm{}jRm@u@AAKIWMSEMCW?A?U@sAN[DOAGAOCU@u@JiABW@a@@_@?o@DgA\\wAb@"
+                            },
+                            "start_location": {
+                                "lat": 3.3170518,
+                                "lng": 101.5751058
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "91 m",
+                                "value": 91
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 41
+                            },
+                            "end_location": {
+                                "lat": 3.3211684,
+                                "lng": 101.5757797
+                            },
+                            "html_instructions": "Turn <b>right</b> after Pusat Sales &amp; Servis Singer @ Rawang (on the right)",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "orgSyz}jRYoA_@iA"
+                            },
+                            "start_location": {
+                                "lat": 3.3208808,
+                                "lng": 101.5750118
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "76 m",
+                                "value": 76
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 23
+                            },
+                            "end_location": {
+                                "lat": 3.3205246,
+                                "lng": 101.5760154
+                            },
+                            "html_instructions": "Turn <b>right</b> before Kedai Tukang Emas Seng Fong",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "itgSs_~jR`Co@"
+                            },
+                            "start_location": {
+                                "lat": 3.3211684,
+                                "lng": 101.5757797
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "yakV{q|iRjBgHlA_BjB_BdFuEtMgMvAqAzDyCpD_DhHyG~EsFfLmJjGiEhe@w\\rm@cc@nl@sb@xLaJrCcBtWyR|b@s]pHsElGiCfS}Gj^mLnDmA`\\wJvK_DfG}@vHMvKb@dQv@hGClCw@zUsJ~JcCxGkAzFqA`e@_J`@[pAeHt@_GQiAiA_BcCcAoB?w@|@Gd@T`Ap@`@x@DhGoBtNgGfQkGbOkDlKeBvGaBbA[`J}DhEcD`DiDlJwOdFsIdEoFlGaFlFyCpEcBdFoA`IeAfEUhSs@fCWvHuAfDaAlJsEpXgS|h@u`@d_@sXfWuOfr@m`@|NoKjMuMdIcLtEqIlEoIlNsXdQy]~LqUhDoDjCeBvEeBzEy@lUmB~Gw@hDw@fDsAhGmDl\\gXfLqJpDwB|GuBjEi@pBE|DCdMEtPE|c@S~LOdJLbEn@dGhCrCtB|DpFxC`KdDhOrEdSfBrEbB|BnD`DdEnBjCr@~Ed@xGSfSgD~GkAzD]vEBlFx@xF~B|D|CxIjIdE~CzBbAzCx@fFf@bGO`Ew@vEeBvJkE`u@a\\~GyApF[nGTpZdFpUbE|[vFfRzEpSxFhIfBtFh@fKBtEIvN]pV[h[EdM{AxOiEtM}Dbs@yRva@sKjUqGpFcAzBObHHbKzA~[dFzC^jDJnE]lDy@hDyAhJiGpTaOpP{K`IiEzEkAfDWxN@pWVj^R`Ho@pEiAtEwBlDsBjGsD~FkDtQkJdEqA~JyArWuAfd@cC|WqA|V_B~UmArLYnL|@xQ|CjFLjGm@jDgA`E_ClEcF`DmHvByErBsC|BoB`FmCrCy@xGg@~p@pCxMx@~HxAtGbCfIhDzGrBxIjAjDLjIKdE_@|EaAtFkBdGcDtLiIr]{UdRwN~JqInMmKvBoA`FiBrHy@b`@_CvDAdF`@nCf@zE|BnDvBxM~IhHnEvHvC~GnArFf@~j@lEho@|EvCFjIQhGm@~FoAdEuA|EwB~IyFxK_InGcDjImBd[uA|\\iAtMKlANnFfAxE|BrAdAvKbMpKnMla@hf@fEhErBtA|D~ArHdApEGxB_@nNoBdCk@jAu@`@{@DkBiAeB{FkBaGmAwK}CaCc@{@Nu@\\O_@uBiFoAeF@yDYeCkA{DiA}AkBiDaA}EBqIGyB[gBcAgD]aCAqB\\aDhByHh@aALuB[mAwCuCmEkDaC{AuDcF{A{@mBk@sCiA{CcBo@{@w@cCa@kFYmH@cF?aAm@gAy@_@}@AmH^iCH_D`Ay@yC`Co@"
+            },
+            "summary": "Lebuhraya Utara - Selatan/AH2/E1",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

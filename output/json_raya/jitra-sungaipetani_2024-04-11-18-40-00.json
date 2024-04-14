@@ -1,0 +1,216 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJhflYpDpYSzARcWdcElm2iNE",
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJj_PBOtIpSzAR0FW-1sdXAZE",
+            "types": [
+                "establishment",
+                "food",
+                "meal_takeaway",
+                "point_of_interest",
+                "restaurant"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 6.2713255,
+                    "lng": 100.5241781
+                },
+                "southwest": {
+                    "lat": 5.6432148,
+                    "lng": 100.3821246
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "77.9 km",
+                        "value": 77900
+                    },
+                    "duration": {
+                        "text": "57 mins",
+                        "value": 3444
+                    },
+                    "duration_in_traffic": {
+                        "text": "1 hour 42 mins",
+                        "value": 6099
+                    },
+                    "end_address": "No. 27, Kompleks Seri Temin, 7, Jalan Ibrahim, Sungai Petani, 08000 Sungai Petani, Kedah, Malaysia",
+                    "end_location": {
+                        "lat": 5.6434742,
+                        "lng": 100.4893086
+                    },
+                    "start_address": "588, Jalan Gemilang 15, 06000 Jitra, Kedah, Malaysia",
+                    "start_location": {
+                        "lat": 6.2713255,
+                        "lng": 100.4283624
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "71.5 km",
+                                "value": 71516
+                            },
+                            "duration": {
+                                "text": "45 mins",
+                                "value": 2728
+                            },
+                            "end_location": {
+                                "lat": 5.6758546,
+                                "lng": 100.5161159
+                            },
+                            "html_instructions": "Head <b>south</b> on <b>Lebuhraya Utara - Selatan</b>/<wbr/><b>AH2</b>/<wbr/><b>E1</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "polyline": {
+                                "points": "yzge@g|}cRVGdAUdBg@`Bi@~Am@|@a@zAu@z@e@tBoAdCyA\\S\\SLKNG\\SnBiApGwDx@g@XQ\\QNINInAq@`By@bBq@|Ai@VINEh@Oz@Ux@Q`@IXG|B_@~BWBA`AGpO{@nGY~G[fAG`@CH?XCb@CfAGd@AjAEDAbAC|AI~BMbEW`@CdCOl@CjBGtCIvAEfEDpBJpBLrBRvARLBjAPzAXxA\\xCv@|Bt@LDf@PtLfEd@P|Bz@lAb@t@Vf@RjIvCr@VFBxAh@lE|A`F~AdEpAfElAhAZxA^xCr@z@RlBf@TFJBTF|Cv@fHfBzD`AhCn@vD~@vA^pBh@TF`@J`@JxA^nCx@dCt@tA`@lErA~Aj@HBRFfDbAlM~DlNjEjBh@l@R|DlArZjJxBr@dIdCn@Rd@NB@r@Tt@Tb@Lh@Pb@L^Ln@Rv@Th@Rj@Pv@Vh@N`EnAPFPDrAb@rT|Gf@NnDhAzBp@`@LhHzB`@LjJtCLDNDnUjHbCv@RF~Bp@zC~@lZjJn@PlD~@lAXl@N`ATj@LzAXrAVxDp@`@FB?~ATxDd@fBRxDZtDXl@DrNdAxGd@jXnBTBhF^d@D`@Bv@F`AFn@Dh@FTBl@Hj@Hl@JXFPD~AXxDf@|Cf@dFz@`AR`@HjDr@j@JB@~FjAxCl@lE~@z@Lv@Rv@PlGnAhKxB`@HhCh@bARzJpBt@Pt@N`@J~AZFBzO`DrH|AlFfAnFfAjHzAlCj@bEx@~LdC`FfAxLbC~FlApB`@nAV`@H|LhCl@LdJjB`ARNBLBpAX`GlAbHxAvBb@zE`AhHxAjDx@pAVTDRD~Bb@zKvBfI`Bn@NrEx@NDRBNB\\HdEh@|DXtELpB@|A?lQSnBCbACzFIvCEzCCzB?hA@tADhADR@^DR@P@l@FnBTj@FlB^hATfAVfDfApCfAz@`@FDx@^`CrAXNtAv@nAr@dDjBLFzCbBnF|C@?dBbAHBDBFDHD@?h@Zd@VfCvAdAl@hBbAv@^d@Th@TFBd@Pr@Tj@Nx@R~@PhANz@HhADbBDF?LAL?f@Av@Ct@Gj@GlAOr@MnA[pAa@z@]lB{@rEqBpCqAHE~JwEh@WbCkA`HaD`VaLrEuB`HaD~GaDvFkCvIaEpMeGxIaE\\QDAvAq@xAs@RM|HqDrG{CNIDAXMxE{B|CyADCXMBAXOdD}AvKgFbNsGdF}B~GkDfEqB^QbAg@VOpGuDtAaAnAcAt@s@jCiC`@c@JMLQp@{@|@qAx@qABER]^o@dBoD|CsGP_@P]N]x@_B|@_Bf@w@l@w@p@u@^a@Z[TSz@s@p@e@l@_@d@WTMXOHCd@SrAg@^Kj@OVGVGTGLCLCBAl@KbAMbAIfAG`@ApDA|@@n@?dDDhMN^@B?xA?dAAnACx@GjAKdAQt@MZEDA`@Kf@Kx@Wf@Qh@Sl@Wt@]v[iONIp@[|@a@^QdAg@xBeAXOjK}EtJsEt@]xBeAnDaBjBaAzCwAzBcA~@e@vBaAlCqAlDaB|CyAjCmAnB}@jDaBfAg@xE{BzCwAhD_B~CyAnCqAhAi@z@_@t@_@`CiAzBcA`CkA~As@zAu@dBw@`CiAnB_ArBaAxBcAjCmAt@]zAu@jCmApCsAt@]xAq@fB_AfAu@|@s@VWx@u@dAmAfAuADGbBsBtEeGj@o@V[RU\\_@TWFGvAuAb@c@p@m@bA{@^[xAgAzAgAlCcBp@_@\\Qn@]hB}@x@_@bAa@FCHEr@Y`@O^MXMDA`A[`@MPI~@W~Aa@xA_@r@OREzCk@DAj@I~AUf@GXEdCWtO_BzC]fB[dAYFAnA_@@?|@]hEkBJCTMNIHEDChEqBdIwD`EmBvBcApAq@xAs@zAu@rAm@fAi@fEqBlHiDvLyFfAg@~FoCj@WpDgBjAi@n@Y\\QLGl@Y`CiArBaA~Au@hAk@l@YzAq@j@Wx@_@JEJE\\Ox@]pAg@p@WtCaAr@Wv@UhBk@JCTG`@M\\KB?zDiAlA[jA]|@WjA]`D{@zAc@xEsAz@U|@Wp@SvCy@`@KrBk@PGvN}DfQaFbAYnA]|@WtDgAnF}AhCs@vF}AnBk@~Ac@fD_AzGkB~EsArEqA`FuAbGaBvGkBtEoAhF}AvAc@bBg@JEbEoAzFeBlFaBjDeAdF{A`@MdCu@zAe@NENEhIyBFAhUyF`@KhBe@|FsAlLuCh@Mj@KtAQvAMJAhAE~BEtH@rGBxG@fIGd@?J?rH?dA@vGA|D@lFArL@jJAvh@Db@?b@?b@?zA?pEApAAnAGHAdAIlAQlASlA]jAa@lAg@b@S~PcI^Q|As@bD{AtCsA^Q^O^QzCwA~DkBzAq@lB{@pF{B`Cy@`@M^Mp@QfH_BdGmAnASHAz@M\\ED?b@G|AQpD_@jTwB`@Gb@ErEc@vPcBb@ERCbEa@dBQzGs@NAnDa@~RuBb@EjMsAzMkAtGo@`J_AzJcAl@E~LoAtCYj@Gl@GlWiCnQiB~I{@tFm@pHw@dDa@bAOdCe@dBa@t@QNEPEtAa@lE}AfBs@bBw@vNgHdIaE\\QxDmB|@c@^S\\QxFqC\\Q^Q|@e@LGNIzCyA\\QVMbAe@`@QtAk@d@SDANGn@U`@M`A[f@Qf@OXI|@Uv@SxA[l@Mv@Oz@Q`@Gb@Ib@G^G@?b@Gn@I|@Kp@Gv@GhCSLALAvCUrJs@hBOb@EhHi@bNcArDY`@Eb@C|AMtBQxCUnAKdBMj@EdBOxBOBA`@Cb@Et@EdDWtAKnE_@fDW`AIfAIXAHAdAIb@EF?~BSzBOnCU|CUpBOb@E\\Ef@Gb@Eb@GdAMb@EJATExAQ`BUVEnASl@KbB]vCs@`@KdBa@LC~Bm@rEyAlAc@vGkCtB_AlAk@dCqAhCsA`HwD\\SvDqBxKcGhAm@|Ay@hVuMzAy@\\SNIhBaA\\SrAs@FCHEzIwE|CeB^S\\Q\\StEcCz@a@nAo@VK~As@hBw@hBs@vAi@bBk@bBk@~Ai@h@MtA_@~@Y|Cw@JAnFgAz@QxAWxASBAnGs@l@GfAKxFa@`CK`@CPAxAEb@Ab@AnCIb@AfGQlOc@b@AjIU~BGD?`EKfDKjEKp@CF?ZArMYb@AdBEnBIb@Cb@C@?`@AhHSjISj@AF?bCAvB@P?T?^@b@@b@@jABhBHpAFxBNzBRXD~ANnC^rDl@NDPBb@HxBd@jDr@~Dx@`B\\fE|@rDt@f@JZF`@HrUzEtFjAbEz@hAT`@HnTpEb@J`@H|ZnGhFbApDx@vGtA"
+                            },
+                            "start_location": {
+                                "lat": 6.2713255,
+                                "lng": 100.4283624
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.4 km",
+                                "value": 1354
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 111
+                            },
+                            "end_location": {
+                                "lat": 5.6762576,
+                                "lng": 100.5105866
+                            },
+                            "html_instructions": "Take exit <b>170-Sg. Petani (U)</b> toward <b>Jln Lencongan Barat</b>/<wbr/><b>Route 257</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "ramp-left",
+                            "polyline": {
+                                "points": "aqsa@w`odRn@DVFx@NhAPr@LVDxCd@b@D`@BP?NAD?VEVIRKTSLOHSFYB]C]GWCIEIIMKMMKMIMEUEMCM?U?I@MBUHOFOJONKRa@x@c@~@O^Q^Q\\eA~BO\\A@MZKTIXmA~B_@bAQn@ENMr@G\\EVOdAW|BGf@EZOhAIj@"
+                            },
+                            "start_location": {
+                                "lat": 5.6758546,
+                                "lng": 100.5161159
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 271
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 39
+                            },
+                            "end_location": {
+                                "lat": 5.676739899999999,
+                                "lng": 100.5081873
+                            },
+                            "html_instructions": "Continue onto <b>Jln Lencongan Barat</b>/<wbr/><b>Route 257</b>",
+                            "polyline": {
+                                "points": "sssa@e~mdRWrBMfACPIx@It@Gf@YxB"
+                            },
+                            "start_location": {
+                                "lat": 5.6762576,
+                                "lng": 100.5105866
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "4.7 km",
+                                "value": 4706
+                            },
+                            "duration": {
+                                "text": "9 mins",
+                                "value": 549
+                            },
+                            "end_location": {
+                                "lat": 5.643231,
+                                "lng": 100.4890747
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>Jalan Badlishah</b>/<wbr/><b>Route 1</b><div style=\"font-size:0.9em\">Continue to follow Route 1</div><div style=\"font-size:0.9em\">Pass by United Plastics Trading (on the left in 1.7 km)</div>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "svsa@eomdRDJ@@?B@D@F@DBDFFBB@@@@@?DH|APtAVPBTD\\@`A@dBBD?hFDzBNT@nDDzBBrAHb@Dj@Jf@Nt@VlAj@NJl@^TL^R`@V^VlAv@pBjAd@VbBr@vCz@zBl@hA\\bBh@xAb@zA`@THlGhB|Br@~H`C|CbAlF|Az@P`@JxAXNB@?f@F`ANl@JH@JBn@J`Cb@xDp@NDrDn@dBTJBbDh@zBj@dAb@^RbG~Bv@\\r@^t@r@~AnBFHt@dAb@h@X`@pAbBl@bAJNf@r@P`@FJ~@~AZt@DLBLDXFh@BbB@xB@nDAv@?v@@n@?L?TA`@BhB@`@@h@@VBPHVTd@NRLJLJZTF@XJVHd@Fz@FxAHfDN"
+                            },
+                            "start_location": {
+                                "lat": 5.676739899999999,
+                                "lng": 100.5081873
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "24 m",
+                                "value": 24
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 9
+                            },
+                            "end_location": {
+                                "lat": 5.6432148,
+                                "lng": 100.4892896
+                            },
+                            "html_instructions": "Turn <b>left</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "eema@uwidRBk@"
+                            },
+                            "start_location": {
+                                "lat": 5.643231,
+                                "lng": 100.4890747
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "29 m",
+                                "value": 29
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 8
+                            },
+                            "end_location": {
+                                "lat": 5.6434742,
+                                "lng": 100.4893086
+                            },
+                            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "aema@ayidRs@C"
+                            },
+                            "start_location": {
+                                "lat": 5.6432148,
+                                "lng": 100.4892896
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "yzge@g|}cR|A]fEqA|CoAvC{AvHqEjDqBbKcGpE_ChFkB`EaAvCg@bCYrQcAnPu@lCO|ESfH]xKo@`GQvAEfEDbFXjEf@xATtDv@vGlBt@VfTxH|MzEpOjFpPzE`YbH`XzGdMpDjIjChlAz^vQvFdt@~Tjq@|S|c@dNxIzB|GtA~Ex@xGz@`Hn@p^jC|g@rDxC^xDr@vInAfHnA|FjAbTfEfWnFxYbGr|@tQhbBd]rIdBtMrCzFfAx`@zHdEh@|DXfIN~Y[rKOvGC|FNrBPzC\\vDt@nF~AlEhB|EhClYdPzF~ClGfDjC`AdBb@hC`@dCNjBDzBG`BO`C]`D}@hDyAnVaLpd@gTl_@eQlj@qW~^aQ|E}BzZ{NdF}B~GkDfFcCzAw@pGuDtAaAdCwBfEmElDeFr@mAbGcMlB{DdBwC~AmBlCeCzCkB|CoApD}@pBYjCQ`IArSV~CAhCKbFq@hCq@tD{Av_@qQjd@eTzGcDvG{CrN{Gld@cTjZoNl[_OnLuFnCoAnDuBtAkA~BcCfKwMtBaCxCyCnFmEhFkDp@_@pFmChCeAvGyB`GwA`Dm@jC_@|UeCzC]fB[lA[pA_@fGiCz@a@va@{R|l@}X|RkJpLqFzEmBjJ{CzLiD`hA}Z|e@_Np\\gJz]{Jfg@kOrGoBj`@{JvX{GtAYlD_@tAGtLClPDlJG|S?je@?bl@DlHA`DInAKzCe@xC_ApB{@`ZeNtFgCdPqHpF{B`Cy@`@MpA_@lPmDrDi@~f@cFtj@yFbT{Bf\\_D``@yDbrAwMvMyAhEu@|D_AbH_CjEkBt_@iR~NmH`FcC`FwBrGuB|FsAxDs@hBWvEe@hb@aDls@oFnp@cFfHw@hFs@|B_@zFqAtG_B`H}BlKkErE}BjLkGxTwLld@qVfRaKxJaFhEkB`E}ApIoC~HsBjHyArDk@hKiAnLs@pHSpn@cBf`@_AxDQbUk@tG?|BDtDLjEVtCXnFn@xF`AfQpDnr@tNzbAtSvGtAn@DpAVnHjAfBF\\Ej@Ub@c@Pm@?{@Ka@[e@[Uc@K{@Ac@L_@R[b@eAxByB|Ek@pAwAxCq@rBa@xBu@fG_BzMYxBDJ@DHXNNFHrDh@f@H~ABjBBhFDzBNdEFzBBrAHnAP|Af@`DdBnDzBvCbBbBr@vCz@dEjA|DlA|NhE|MdEhHnBlCh@`Dd@lTtDbDh@zBj@dBv@zH|Cr@^t@r@fBxBxAnBdDxE`C`E`@bAHf@JlCBhH?lDBbEB`ALh@d@x@ZVb@Vp@T`BN`GXBk@s@C"
+            },
+            "summary": "Lebuhraya Utara - Selatan/AH2/E1",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,260 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJ210ff4wF2jERzPsYJs_8GK4",
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJLzzg2HcJ2jERC-f_JtaEg1I",
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "transit_station"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 1.4346945,
+                    "lng": 103.6625433
+                },
+                "southwest": {
+                    "lat": 1.3236999,
+                    "lng": 103.5872198
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "23.0 km",
+                        "value": 22956
+                    },
+                    "duration": {
+                        "text": "22 mins",
+                        "value": 1318
+                    },
+                    "duration_in_traffic": {
+                        "text": "28 mins",
+                        "value": 1700
+                    },
+                    "end_address": "Kampung Bukit Kecil, Kampung Tiram Duku Kiri, 81550 Gelang Patah, Johor, Malaysia",
+                    "end_location": {
+                        "lat": 1.3920174,
+                        "lng": 103.5895039
+                    },
+                    "start_address": "2 Tuas Rd, Singapore 638485",
+                    "start_location": {
+                        "lat": 1.3236999,
+                        "lng": 103.6625433
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "3.8 km",
+                                "value": 3770
+                            },
+                            "duration": {
+                                "text": "3 mins",
+                                "value": 179
+                            },
+                            "end_location": {
+                                "lat": 1.3470656,
+                                "lng": 103.6379762
+                            },
+                            "html_instructions": "Head <b>northwest</b> on <b>AYE</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "polyline": {
+                                "points": "cpaG{quwRgBxAcCdCUXSTmArAs@x@IHqFxF_BbBWZoC|Cu@z@YZY\\kAnA}@`AgBnBiAjAu@v@}@`Aq@r@iCpCaAdAa@b@cAbAaChC}DdEy@z@YXYXGFOPgBdBmApAcAfAc@d@q@t@mAlAWZ}@~@m@n@OP{@z@_BbBoBtBiCvCk@p@{@|@e@f@CDaBdBkAnAUTw@`A}@`AeCnCo@l@iAfAs@p@}BfCw@|@kDzDGDCDA@IHA@CB?@A?A@QPQRaA`AEFi@l@]\\cAhA]\\"
+                            },
+                            "start_location": {
+                                "lat": 1.3236999,
+                                "lng": 103.6625433
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 182
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 52
+                            },
+                            "end_location": {
+                                "lat": 1.3470169,
+                                "lng": 103.6366948
+                            },
+                            "html_instructions": "Continue onto <b>Tuas Checkpoint Viaduct</b>",
+                            "polyline": {
+                                "points": "ebfGkxpwRSXINGJIPKTKVGVAL@N@LDPDFDFBDDDB@DBD@F@JDVH"
+                            },
+                            "start_location": {
+                                "lat": 1.3470656,
+                                "lng": 103.6379762
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 276
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 99
+                            },
+                            "end_location": {
+                                "lat": 1.3478606,
+                                "lng": 103.6345287
+                            },
+                            "html_instructions": "Keep <b>right</b> at the fork",
+                            "maneuver": "fork-right",
+                            "polyline": {
+                                "points": "{afGippwRFFBBBD@B@D?B?B?DADAFERgBpGSp@EFA@CDC@C@a@J"
+                            },
+                            "start_location": {
+                                "lat": 1.3470169,
+                                "lng": 103.6366948
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.0 km",
+                                "value": 969
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 84
+                            },
+                            "end_location": {
+                                "lat": 1.3538271,
+                                "lng": 103.6290449
+                            },
+                            "html_instructions": "Continue onto <b>Malaysia–Singapore Second Link</b>/<wbr/><b>Second Link Expy</b><div style=\"font-size:0.9em\">Entering Malaysia</div>",
+                            "polyline": {
+                                "points": "cgfGybpwRg@B[@S@]?wBQ]GGAMAK@K@I@G@KFMHOJEDOVA?eA|AgA`BMNiCvDk@t@w@hASZMRqBrCoAfBaAvAkBnC"
+                            },
+                            "start_location": {
+                                "lat": 1.3478606,
+                                "lng": 103.6345287
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "11.6 km",
+                                "value": 11618
+                            },
+                            "duration": {
+                                "text": "11 mins",
+                                "value": 643
+                            },
+                            "end_location": {
+                                "lat": 1.4334316,
+                                "lng": 103.6058153
+                            },
+                            "html_instructions": "Continue onto <b>Malaysia–Singapore Second Link</b>/<wbr/><b>Second Link Expy</b>/<wbr/><b>E3</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "polyline": {
+                                "points": "mlgGo`owR_QnWeIvLkF|H_ClDcD~Ey@lAk@x@SZA?S\\ED]d@e@j@qAzAm@p@uAxAUTWTmAhAw@p@g@`@cDbCy@j@sCdBoBhAyAr@}@b@E@SJE@KDw@\\yB`A{B~@sBfAeCrAuAx@SLGD[Tm@b@QLQNkAbAkAjAw@x@A@STUZQRGHQREDq@~@gAdBWd@SZMTEFMREJs@tAcAnCa@jAq@~BITGTa@bBi@`Cm@xCIXOn@W`AkAnFMd@K`@ABWfAA@CPEXAFc@nCa@~Bs@|Cc@fBSj@MXCFOXMP[^a@b@e@n@eAbBq@|@WX}@lAcBxB]`@[^{@bAWV}@n@}@f@q@X}@ZYF]HeCZ_Fn@}Fn@eAHgCVaBRQBcANeARuA\\kBl@_A\\u@ZsAp@cAj@o@b@oAv@yAhAgA|@mDtCEBo@d@WNsBlAEBgAj@]N}@\\[L_AZmA\\aAVcBZkAPsANWBk@DS@i@DU@cAB{@@Y?a@?q@Ag@As@E_AGkBOcBWeB]q@KoA]_A[w@[q@YYMe@Uq@]s@]IGsCeBiAq@q@c@u@e@sFeDmEkCwA{@]SoD{B]S{@g@{A{@aAi@yC_BgAk@a@U_@S]QMGs@a@WM]Q_@S_@O]S]QQKk@WUKe@Wa@S]Qk@YiBy@eAg@_@SyCwAmAi@gAk@_CgAcAi@sDcBSIKGm@YOGoEuBi@W_@QgBy@eB{@_@Q]Q_CeA]OIEQICCyAo@sCqA}Ao@e@Ss@WuAk@iAc@w@WaBi@k@Sy@UEA{Ae@{MuDgA[cFcBo@U}Ao@sEiByAu@yAu@"
+                            },
+                            "start_location": {
+                                "lat": 1.3538271,
+                                "lng": 103.6290449
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.4 km",
+                                "value": 422
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 27
+                            },
+                            "end_location": {
+                                "lat": 1.4331584,
+                                "lng": 103.6052225
+                            },
+                            "html_instructions": "Take exit <b>Exit 312</b> toward <b>Iskandar Puteri</b>",
+                            "maneuver": "ramp-left",
+                            "polyline": {
+                                "points": "}}vGkojwRMBE?EAE?o@SMCGAM?W?M@OBGBIBSLEDIJMTK\\AX@^FVHTNRRNRLND\\@RAH?PCNELEHELINO\\e@@ABC@AZS"
+                            },
+                            "start_location": {
+                                "lat": 1.4334316,
+                                "lng": 103.6058153
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 116
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 6
+                            },
+                            "end_location": {
+                                "lat": 1.4326799,
+                                "lng": 103.606153
+                            },
+                            "html_instructions": "Merge onto <b>Lebuhraya Nusajaya</b>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "g|vGskjwR`@_Ab@gAJWLY"
+                            },
+                            "start_location": {
+                                "lat": 1.4331584,
+                                "lng": 103.6052225
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "5.6 km",
+                                "value": 5603
+                            },
+                            "duration": {
+                                "text": "4 mins",
+                                "value": 228
+                            },
+                            "end_location": {
+                                "lat": 1.3920174,
+                                "lng": 103.5895039
+                            },
+                            "html_instructions": "Take the ramp onto <b>Second Link Expy</b>/<wbr/><b>E3</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "ramp-left",
+                            "polyline": {
+                                "points": "gyvGmqjwR?U@E?C?E@CDMBGBG@KHi@@O?UCIS_@QQYOi@MOAI?W@O@MDUJONOPGREVATB^@BBLDNFLFJLNTPDD@B@F@D?H`Bx@`Bx@dFxBnCdAl@TtAd@xDlA`J~BjDbAjBp@pE|Aj@Rj@TpChA|@^t@\\n@VnCpAvCtAxDjB|BdAXLpDbBlB|@^P\\PlCnAJDfF`C`@P`@PTLd@RzCtA~@b@~@b@`Bv@XL@@vBdA|@d@B?ZP\\P\\PzAv@^P@@ZPp@\\|@f@t@^h@ZjBfAVN~@f@n@`@TLd@Xn@^\\RrBnA@@ZRfHjEvAz@vErCpEnCd@VHDd@Xv@d@JF\\Rf@Vn@Vp@XRH^LD@ZJPFn@Pp@Pt@Pz@NrARzBRnCNjB?dA@x@CVA|@Gn@El@GhAOd@GfASREtBa@PEfBm@d@ULGz@c@l@Wr@]dAi@LIJELIHEJIRMLKBAd@]"
+                            },
+                            "start_location": {
+                                "lat": 1.4326799,
+                                "lng": 103.606153
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "cpaG{quwRgBxAcCdCi@n@aClC{FbGwB~BeExE}DjEeQdRiO|OuDvDgBlBuE~EyE`FaJ|JwEbFmAvAcEpEyBtBs@p@}BfCcFxFKJQPUTcCjCaBfBq@v@g@bASn@?\\F^JNRPp@RPT@RqBrHYx@EFGBa@Jg@B[@q@@uCYUCi@FYPUP_DvE{FfIcFjHmDfFe[fe@iQxWuArB{CrDcCjCm@j@eCzBkEdDmEpCoBhAyAr@cAd@YLyHdDyFzCiBfAcBlA}ArAcCdC}@fAqAbBaC|DmA|BeBzE{@tCaCtK}BzJs@rCMt@eAnGwAdGe@lA]j@}@bAkBrCiAvA{EhGsAzA}@n@}@f@oBt@w@PeJjAcIx@iFj@uAR{Cp@kDjAiClAsBnAoAv@yAhAuFrEu@h@kC|AmAn@{Al@{Ah@oCt@oDl@kBR_CN{DDyACsBMkBOcBWwCi@oCy@iBu@eD_ByGcEoQsKgHkE_KqFwFyCwFqCiQoIcEqBgEmByG_DsNyGyBcAqFaCyAk@_DoAyCaAgEqAcPqEsGyBqHyCsDkBSBKA}@WUAe@@WF]POPMTK\\AX@^Pl@b@b@b@Rp@?ZC\\KVOl@u@b@[~AyD@e@Na@Ju@@e@Wi@QQYOy@Oa@@]Fe@ZWd@Gl@Db@H\\NXb@`@FHBL?H`Bx@`Bx@dFxB|DzAnGrB`J~BjDbA|HnCfHrClK|E|XtMnQfIvJvEbHpDhGjD|CfBdSzL`R|K|CrArAb@`Bb@pB`@rARzBRnCNjB?dA@x@CtAI|AMnBWbFaAfBm@d@UhAk@tDiBn@_@jAy@"
+            },
+            "summary": "Second Link Expy/E3",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

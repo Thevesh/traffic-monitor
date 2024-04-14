@@ -1,0 +1,93 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJ50MdO5O5tzERaJyff4O5Zvc",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJxUuubGzbtzERFLfxgf1cPuA",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 5.3266271,
+                    "lng": 103.066358
+                },
+                "southwest": {
+                    "lat": 5.0674366,
+                    "lng": 103.0081052
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "31.5 km",
+                        "value": 31482
+                    },
+                    "duration": {
+                        "text": "18 mins",
+                        "value": 1069
+                    },
+                    "duration_in_traffic": {
+                        "text": "21 mins",
+                        "value": 1243
+                    },
+                    "end_address": "E Coast Expy, 21700 Kuala Berang, Terengganu, Malaysia",
+                    "end_location": {
+                        "lat": 5.0674366,
+                        "lng": 103.0630842
+                    },
+                    "start_address": "E Coast Expy, 21060 Kuala Terengganu, Terengganu, Malaysia",
+                    "start_location": {
+                        "lat": 5.3266271,
+                        "lng": 103.0135175
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "31.5 km",
+                                "value": 31482
+                            },
+                            "duration": {
+                                "text": "18 mins",
+                                "value": 1069
+                            },
+                            "end_location": {
+                                "lat": 5.0674366,
+                                "lng": 103.0630842
+                            },
+                            "html_instructions": "Head <b>south</b> on <b>LPT</b>/<wbr/><b>E8</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "polyline": {
+                                "points": "mjo_@oyvsRfBAzDA|AAhIEp@?~GEdOSlFGv@AnEKbCEZ?bCErBEv@AdCEbBAbBE`EIvBC~@?jBCXAbBED?hBElBCb@At@AnBAxBGVAJ?|@A|@Av@?b@?fBCbC?r@?v@?pBBH?b@@dAB@?dABl@@X?p@@~A?nA@j@?bAB\\?xBDlC@`A@p@@xBDxED`A@bFDxBBtA?b@@b@?nC@n@?z@@b@?~BB~EB^?bDEpCEb@Cd@A|HS~CG|FM|@CjBErEMjAAv@C|@AbDKb@AB?^AB?b@A~@CxDI`@Ab@AB?`@ArACfDEb@AB?nAAVAb@?bAAB?Z?B?nB?b@?|A@pE?hDDrBDdEJ~@BjADrCJV?vCNnBJ^Db@B@?`@D@?bAF~CX~CZnBNrBNV@`@DR@LB@?`@Bl@FjE`@jCVb@DP@|BRfAJzE`@jE^N@R@b@Db@DfCVjAJdAJfAJF@XB@?\\BB@nFf@F@r@HvATH@XF`@JpAXr@T`@LfGnBn@TfA^vDtAnC~@`Ct@`Ct@|Af@|Bt@\\JRFt@PnFbAjC\\hAJj@DvBJfAB^?L?D?z@?h@@hEE\\A|@EvAIjCUjBSxBa@rCo@XGtM_D`M{CdJ}BvCq@b@Ij@KzCc@~Dg@|DYjAGdCGHAb@A|@AlEAtCBxB@fA@b@@R?r@?rD@b@@tE@@?b@?fACb@?b@Ah@?vBKtF[zLwAjCYd@Id@GdLmArLyAjH{@VEZCb@Eb@EhCUhIm@fCQz@GxCUb@Cb@Ef@ChMgAzHq@b@E@Ax@GpAKjBOVApDWlFe@jBOlFc@dHg@hEU@?D?ZC@?hBGb@A~@EpBGrDGP?PAtEG`JKtCGB?^AB?^An@AV?lEEpHMjDK@?J?TAfBKfCMnKeA@?^EpMqAnEe@lCYbFi@jEc@dBQ^Eb@EvHy@D?rCY\\ENAPAb@EHAr@Ir@Gr@IfD_@hC_@zBe@`@KHAvBe@lDaAjEuA|CkAfCmAnBeApBgAbAo@dAo@rCqBzAqAbBuAnBkBr@q@XWfBcBx@u@rHeHXYxGoGjDmDbDwDlAaBT[V[|@oAxCqER[~@wAT[j@y@R]bEeGt@kALQNQvAeCvEgHx@oAFGzA}B`AuAhD_FBET]T[DGrCqEvA{Bh@{@rB{Dd@eAj@gAFQ^w@l@uAN_@HQVm@DMPc@ZaAZ}@@CDMLa@ZkAX}@FODQ\\gAdCuH@GtDgLlAkDlBcFpBmEVe@rAkCn@iAFILS|@uAJMzA{Br@}@T[@Cj@s@VYl@u@X[VY`@e@h@g@jAkANOHIXWt@o@tAkAn@i@dA}@lA}@`C_BnBmArAu@xBkAjEsBzAk@NGNGdA_@NIvBw@`@MnA_@t@S`@MbAYtC{@bDo@dDe@pCc@vC]|F]LAb@Cb@Cb@AVCn@Ab@?b@AvEE~AAfA@|DDfA@J?V@b@?b@@b@?b@@b@?b@@rMLb@@fA@D?bKPlCDR@`ABnDJbCHB?`@B~ADJ@dETv@FF?x@FH?hFZ`@BF@`ET`@Bx@DvHd@dBJfDRpBLr@D@?H@H@v@Dp@Fp@DhJl@nHTb@BjCHjBJj@DhDRb@BtEVb@DzCPpAH~AFjH^`BJ|JXzADl@Bn@BdBD~@@B?b@@h@@rBF|ADfBDpBB`@@`A@lA@F@Z?b@?\\@B?b@?nC?^?\\?vB?|GBxCAjA?|B?~A@xABF?b@?b@@`A?rCBzA?|B@p@@"
+                            },
+                            "start_location": {
+                                "lat": 5.3266271,
+                                "lng": 103.0135175
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "mjo_@oyvsRjUKpIErV[fLStLS`OUjDC|BG`GKdDCpCI~DCbICvEDzDHzFBfGHnEBjDFxRP|PH~FBtHKfPa@`^y@jKU|LQvHCnH@|GJdN`@~H`@hAHrNlAlDVnNpAbTfBjMlAb@DvFh@jC^vCn@lKhD~FtBpGtBzJ~ChAXnFbAjC\\tBP~DNnB?rFCzAGbF_@jBSxBa@lDw@v[{H|NoDnAUzIkAhGa@pFMbJ@`EB~GB~GBxDElJg@fQqBjAQdLmArLyAbIaA~@IlD[pM_A|Gg@pYcCxFe@hEYxIu@rOkAjEUlCKbBGdHOzQU|DItHIjNY|BMfCMnKeA`@E`TwBbTyB`KeAhJ}@zEi@hC_@zBe@j@MvBe@lDaAjEuA|CkAvFsCtDwBxEaD~DgDbD}CnNwMrHiHjDmDbDwDbB}BtAkBbGaJxHiL\\c@vAeCvEgH`AwA|CsExE_HzGqKrB{Dd@eAr@yAfB_EjAaDp@qBbAkDzImXlAkDlBcFhCsFbCuET]hAcBnCyDzAmB`CqCnCmCtE}DrC{BpFmDlEaCjEsBzAk@^OtAi@xCeAdCs@dBg@tC{@bDo@vHiAvC]|F]p@EfAEnCGvHGdGFnCBnCBbRRjPXxJXrI`@xQfAhYbBjAHbBLhJl@nHTnDLvCPfMt@lFZjKf@`BJ|JXhCHxEJ~GPnLPnL@`S@dFDdOH"
+            },
+            "summary": "LPT/E8",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

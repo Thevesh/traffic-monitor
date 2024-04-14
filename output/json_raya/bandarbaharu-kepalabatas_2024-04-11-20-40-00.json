@@ -1,0 +1,332 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJjzk8MxyuSjAROgjYXqNPD9w",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJBRRfpX_QSjARGcrfUiaOGQU",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 5.509358199999999,
+                    "lng": 100.5176638
+                },
+                "southwest": {
+                    "lat": 5.1367459,
+                    "lng": 100.3989605
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "54.8 km",
+                        "value": 54831
+                    },
+                    "duration": {
+                        "text": "49 mins",
+                        "value": 2933
+                    },
+                    "duration_in_traffic": {
+                        "text": "55 mins",
+                        "value": 3307
+                    },
+                    "end_address": "6, Lorong Seri Bertam 2, Taman Seri Bertam, 13100 Kepala Batas, Pulau Pinang, Malaysia",
+                    "end_location": {
+                        "lat": 5.509358199999999,
+                        "lng": 100.4421736
+                    },
+                    "start_address": "Lebuhraya Utara - Selatan, 34950 Bandar Baharu, Kedah, Malaysia",
+                    "start_location": {
+                        "lat": 5.136758899999999,
+                        "lng": 100.5136053
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 164
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 25
+                            },
+                            "end_location": {
+                                "lat": 5.1380154,
+                                "lng": 100.5130922
+                            },
+                            "html_instructions": "Head <b>west</b>",
+                            "polyline": {
+                                "points": "wgj^aqndR?@@F?@?D?BABABA@E@E@E?E@[D_@D_@Da@Fk@HSDMDMF?@A?AB?@A@"
+                            },
+                            "start_location": {
+                                "lat": 5.136758899999999,
+                                "lng": 100.5136053
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.9 km",
+                                "value": 875
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 136
+                            },
+                            "end_location": {
+                                "lat": 5.1424956,
+                                "lng": 100.50705
+                            },
+                            "html_instructions": "Slight <b>left</b>",
+                            "maneuver": "turn-slight-left",
+                            "polyline": {
+                                "points": "soj^ymndR@\\A@?HABAHAHCFEFEDKJSRSVA@A?A?C@G?E@EBEBEFY^EFGDA@UJi@VEFGDGLOPEHECA?A?A?A?MZ[v@?BeAtCCJABQXKPW\\IH_@d@m@n@YToA`AqAfAc@d@}AdBB`@@L@N?PAHAJCFABc@`A"
+                            },
+                            "start_location": {
+                                "lat": 5.1380154,
+                                "lng": 100.5130922
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "2.6 km",
+                                "value": 2649
+                            },
+                            "duration": {
+                                "text": "3 mins",
+                                "value": 196
+                            },
+                            "end_location": {
+                                "lat": 5.1598883,
+                                "lng": 100.5060853
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>P144</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "skk^ahmdRQWIKOMMKOGMGICQCQA[BUBMBQDMF[PURCBMNILEFCHEFAFGVCNCL?LExAEnA?BAH?HCJAHCHCBCFEJEHMNGJMHOLGDGDA@GBKDIDMDUFI@IBA?G@I?o@DyAHw@DQBI@IBKDGDIDGDURaCnCs@r@EDmAjAABIDGBM@I@G?I?GCICGEEEAACCcAuAQUs@aA{B}Cu@cAgBcC_BoBq@}@YY[_@_@a@e@a@][kAy@o@e@gBeAECUK[Oc@Qg@Qg@Qe@Mc@My@QkB_@g@KkAUw@QEAE?E?C?E?C@C?A@EBC@EDQT[d@eEzFA@QTe@d@QNq@j@_@V[P_Af@qDpA"
+                            },
+                            "start_location": {
+                                "lat": 5.1424956,
+                                "lng": 100.50705
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.6 km",
+                                "value": 1607
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 124
+                            },
+                            "end_location": {
+                                "lat": 5.167817599999999,
+                                "lng": 100.5176638
+                            },
+                            "html_instructions": "Turn <b>right</b> to stay on <b>P144</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "ixn^abmdRgAiD_BiFa@oA_@qAqAgEg@_BGSEMCIIQIOIMCEEEGGsBeBuBeBqDuCKKsIiH]Y}BmBQOoAeAUWIMGKCGAAGMCOEMG]UcB]_CU{A"
+                            },
+                            "start_location": {
+                                "lat": 5.1598883,
+                                "lng": 100.5060853
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3.5 km",
+                                "value": 3486
+                            },
+                            "duration": {
+                                "text": "4 mins",
+                                "value": 219
+                            },
+                            "end_location": {
+                                "lat": 5.1969106,
+                                "lng": 100.5070271
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>P156</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "{ip^kjodRkBZsATiAP[DmDh@A@}@Lu@N[J}@^[LE@w@^EBYLEB}@`@YL_@P_@P]N_@PEBYLaCfAOHg@Rm@Xo@ViInC}Bt@e@Nu@VwDlAeCjAWHk@TWFWBeAF{FNcABo@Bg@@W?O@S@c@@iABmBD]@I@Y@K?u@BE?S@O@W@K?qAFY@SBG@K@yA^eCt@IBeBf@KBkCv@kD`AyAb@SFeCl@wCv@s@V}Ah@q@PA?G?G@A@A?q@\\y@`@SJSLuAhASPGDKHMJi@V_C|@iBn@WN}Ap@]La@Na@JA@q@Pu@Re@J_ATaAR}@R"
+                            },
+                            "start_location": {
+                                "lat": 5.167817599999999,
+                                "lng": 100.5176638
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.6 km",
+                                "value": 1576
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 130
+                            },
+                            "end_location": {
+                                "lat": 5.2023969,
+                                "lng": 100.4963629
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>Jalan Krian Kedah</b>/<wbr/><b>P138</b><div style=\"font-size:0.9em\">Continue to follow Jalan Krian Kedah</div>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "u_v^}gmdRNf@BP@JD^@j@?b@@L@TFz@RzBDXHdA@X@TAP?|@A~@?BBdBAt@EhAGlAGv@EhAC`@@j@HfA?VCb@Ev@Ip@E\\CLGZGRUj@KRCDMPGFKHSJQFMDeA\\cA\\yDfAiCz@GFEBMD[Js@Tc@NgA^G@sA`@cAZg@Ps@VSLGFIHININ"
+                            },
+                            "start_location": {
+                                "lat": 5.1969106,
+                                "lng": 100.5070271
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.9 km",
+                                "value": 1921
+                            },
+                            "duration": {
+                                "text": "3 mins",
+                                "value": 164
+                            },
+                            "end_location": {
+                                "lat": 5.187425,
+                                "lng": 100.4878948
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>Jln Sungai Bakap</b>/<wbr/><b>Route 1</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "_bw^gekdRBL?B@F@DBDLTVNJHx@d@rB~@tAn@h@V`H`DhBz@pB~@r@\\B@LHHDLLr@\\p@Z`@P\\NnAh@r@ZVNh@PNHVHHDHDfAf@r@ZFBd@TxAt@^PzBdApAh@jAh@|Ap@j@T`@R^NHDPHj@XPHLDhDxAr@^P@x@T|An@j@Rn@V^NrAn@xBdA"
+                            },
+                            "start_location": {
+                                "lat": 5.2023969,
+                                "lng": 100.4963629
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 638
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 80
+                            },
+                            "end_location": {
+                                "lat": 5.1866712,
+                                "lng": 100.4933545
+                            },
+                            "html_instructions": "Turn <b>left</b> (signs for <b>E15</b>/<wbr/><b>Grik (Timur)</b>/<wbr/><b>Kulim</b>/<wbr/><b>E1</b>/<wbr/><b>Pulau Pinang</b>/<wbr/><b>Ipoh</b>)<div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "kdt^ipidRR@F?F?HCFCDEFOB_AD}@Bi@?S?_@@}@@M@_ABm@NyBFq@@YJiDB]JeDBy@?c@"
+                            },
+                            "start_location": {
+                                "lat": 5.187425,
+                                "lng": 100.4878948
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.8 km",
+                                "value": 770
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 43
+                            },
+                            "end_location": {
+                                "lat": 5.1907182,
+                                "lng": 100.4909382
+                            },
+                            "html_instructions": "Take the ramp to <b>Alor Setar</b>/<wbr/><b>Pulau Pinang</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "polyline": {
+                                "points": "u_t^mrjdRCk@Cg@Iq@Oc@MQW]k@]m@Sc@E_@A[@UDg@NYPc@^i@p@SV_@l@S\\Yf@u@tA_@t@Q`@MVa@v@m@rAg@jAq@nA"
+                            },
+                            "start_location": {
+                                "lat": 5.1866712,
+                                "lng": 100.4933545
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "22.4 km",
+                                "value": 22378
+                            },
+                            "duration": {
+                                "text": "16 mins",
+                                "value": 957
+                            },
+                            "end_location": {
+                                "lat": 5.3594121,
+                                "lng": 100.4074411
+                            },
+                            "html_instructions": "Merge onto <b>Lebuhraya Utara - Selatan</b>/<wbr/><b>AH2</b>/<wbr/><b>E1</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "_yt^kcjdRu@nBa@`BCHCJ{ArESt@a@tAoAnEa@tASn@CHITc@tAw@tB{@pBUd@g@bAk@bAo@~@o@~@s@z@YZu@t@[ZYTWR_@Z{@l@_Aj@eAj@GB_Ab@KF_Ab@oAd@g@PoA^i@LgATeBVC@a@FE?{APk@FA?a@@y@D{ABk@?o@?m@AeAEUAMA]AyAMk@IMAc@Ga@Go@KuAWiAUu@O}DaAsJmCgHmBa@Ka@MsEmA{Aa@aAYy@Uy@Ue@Me@MgHkBkBe@WGgBe@uA]aE_AuEeA_@Ia@IuAUg@IsAUk@IeAO{Fq@QC}@GqBMgDOiBEqBAuA@q@@yADsAHeAHeAJ}AN}BZkCb@cATq@Nc@Jy@Tq@Rg@Ps@V{@XeAd@SHe@RYL_@PaAd@y@`@c@Vq@^u@`@a@VIDSLo@^i@\\]REBuAz@{@j@u@d@ED}@j@SJu@f@cAn@{@h@iAr@kAt@SLk@^k@\\]RMH{A~@mBnASJaBbAwAz@c@Xs@d@{@h@y@h@{@h@gAr@kAt@o@`@y@f@]ToIrFWRa@VkAp@uCbB{OzJkEpCC@QJqLnHq@b@IDUL[TC@kHpEg@ZUPUNsFnDiDvBuBpAGDSNA?cRpLyA|@}@j@s@d@{@f@w@d@{@f@s@`@{BnAwAt@gBz@gB|@_CfA}B`A]N_A^_@No@TuAj@}Bz@C@oDrAqDnAa@LeFfBkZdKUHaBl@]L]N[JC@qA^uAd@mGxB[JiDfAcDlAeDhAeDhAwBt@iLxDoBr@aBl@aCx@C@E@[JgFdBuAd@WHC@E@EBwAd@o@TmDnAWHGBGBWJGBYJE@q@VeFjBm@VQHaDnAEB_@Ng@RyCfA_A`@KDSHGBWJ_@PaDpAmBr@q@Vq@XuAf@{@^i@TwAl@cC`A{ElBaG`Cc@Pa@NWJaG~BG@}@^aC~@aBr@eAb@{@Z}B~@YJeEdBgAb@iE`BqDvAwChAmA`@gA\\aCv@C?gD~@uCt@w@P_APA?eCf@gARoATy@LcCZ{BVsD\\oBRm@F{@FcAFuAHaM~@{DVwAP[Du@JuCh@}@La@De@Bc@DkAN_@Fg@@s@BkBA{@EK?{@BeABi@B}DRaAHi@ByBNkCPyAL}CZsCZWBmAPuARgARSDqAVyA`@mA^WFMDk@NkBj@}Ah@uBv@i@RIDg@Ty@b@IBUJu@^iAl@mAn@u@b@iAt@y@f@WPYPy@l@gAv@aAv@a@\\g@`@aAt@WPOLGFiCnBc@ZiBtAmCvBeDfCaAt@iCpBw@j@oA`AmBzAsBxAoBzAuAbAoBzAsA`AuAfAg@`@k@^yAfAaBzAe@d@QNi@f@g@h@_@`@[^o@t@{@bAe@r@{@hAw@hAm@`Am@bAu@tAi@bAa@z@u@bB_@~@Uj@MZYv@u@pBSd@_@hAi@rAg@pA[|@a@fAOb@uBnFIRQd@O^q@~ACH{@nBo@|AMZe@dAO\\GLEL[t@c@~@Wh@_@`Ac@~@_@z@Q\\s@~AKT"
+                            },
+                            "start_location": {
+                                "lat": 5.1907182,
+                                "lng": 100.4909382
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "18.8 km",
+                                "value": 18767
+                            },
+                            "duration": {
+                                "text": "14 mins",
+                                "value": 859
+                            },
+                            "end_location": {
+                                "lat": 5.509358199999999,
+                                "lng": 100.4421736
+                            },
+                            "html_instructions": "Keep <b>right</b> to stay on <b>Lebuhraya Utara - Selatan</b>/<wbr/><b>AH2</b>/<wbr/><b>E1</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "keep-right",
+                            "polyline": {
+                                "points": "iwu_@oyycRa@v@q@zA[p@s@`BM`@kGdNk@nAe@dAS`@KTWl@Yn@Uf@U`@]p@]h@GHw@z@UXk@h@{@n@[TcAj@i@Vk@Ta@Py@Ti@Ng@J{@Nk@Jc@Ds@DO@I?M@Y@Y@a@?i@?e@AW?_@CYAUC]ESESCQCiAY_Co@i@KWKiEmB_GkCCACCGAw@a@y@a@WOg@UgBm@}EcBKEKEA?kFaBIC{@WgCs@yBi@u@SiCk@]I_@GwA[OCkDi@i@I}IgAsC]c@EiAKo@GsAIwBMiMq@{AKg@EwBMcBKeBIaCOyEUeCMiCOoAGSASAYCsDSeAGiAGcAE}@GcBGsAGc@CC?wAIoHUw@Cw@Cc@Ck@CgAEOAiJ_@C?[AG?gEIuCMgAIMAkAGkAGgCMeGYaDGK?mAGsGYe@AwKe@]Ao@Cm@Ck@Ca@A_@CkBGwESc@CeAEkBIeAGm@I_@EUCKAK@a@KICq@Sw@[m@Yk@]o@a@c@][[WYSUc@i@oP}P_@_@gCcCaJiJgAcAkAaAq@g@mAy@wAw@a@SgBs@cCs@yBc@}Cc@wGu@sDa@YEkDc@}H_A{AQ}@KoC[WCKAcAMAAc@Es@KQA{ASsCSsDQmDGsA@oE?gEBeB@{E@qAAa@Ak@?Y?]@k@?eHFK?wB?o@@K?U?}A?c@?aJBc@@Q?O?yADoF@iIBwEAkD@aFLyAFk@B}@D}@?w@AY@a@C}@Ae@Bc@?q@@{AB}@EuCEm@AsDAgI@kC@c@?gC@_FBgA?c@@gA?_@?C?_@?c@?mLDE?]?E?c@?m@?y@@{A?u@@c@?_@?C?_@?C?iB@yHBo@?gA@sB@a@?g@@}E@kIBsACcBEsAGuAKqAMYCsAQQCyAUgB_@eBa@{Bo@mAc@KCcAa@iAe@eAg@oBcAcAk@o@a@iBqAgBwAcB_BoAsA_AgAMOi@s@u@eAKQk@{@k@cAe@}@o@qAQc@IQGQO[Yu@IUKUkByFYs@IOM]Yu@KYYq@a@}@g@eAACAC]o@a@y@e@{@g@y@]i@EI[g@GGc@s@a@i@a@i@a@k@a@g@_@e@s@}@s@s@SWc@e@q@u@m@o@q@q@eAcAqDeDsAgA]Y_@[a@]cAs@c@]e@]GG}AgAoCgBiAq@o@_@YOCAgAo@q@]q@_@u@a@oAm@mAk@oAi@_Ac@MGqAi@qAg@_DgAmAc@eDcAoBi@cCq@{Bi@m@Mc@Io@O_Dk@iASKA"
+                            },
+                            "start_location": {
+                                "lat": 5.3594121,
+                                "lng": 100.4074411
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "wgj^aqndR@PELuC^{A\\CFKjAeAfAWFk@r@iAj@e@l@KDC?C?oBlFc@z@oB|BiBvAuBlB}AdBB`@B\\Gn@e@dA[c@{@i@iAEcATcAx@Yf@Q|@KzDYjAi@n@a@ZwAb@{CP}ANe@VqE|EaBxAi@B_@S{AqBmIgLgEgFeAcAiBuAsD{BoCeAoFmAgEu@OFw@bA_GxH_CdBqFxBgDsK{DiMy@gB_\\gXaC{BUc@g@_Ds@{E_Ep@uGbAsB\\yAj@_Br@wB`AoHhDuAl@yJfDqKjD}CtAcA\\}K^oJTmDLoCJaCf@gTjG}GdBqC`AcARoB`AqCtBkAr@_JnDcBj@mEfA_Cf@Rx@HzBr@jJCrC@zCMvCOnEH~AIzA[xBm@xAu@n@iDhAcIbCMJaCv@gF~AwB~@SXE\\FVd@d@dAn@tOhHrGzCxAz@fInDnHhDdOvGxAr@vD~AdA`@rFpBrB~@lCfA`@GLUH}BD{CVuFXsGN_FCoAMyA]u@cA{@qAY{@?}@T}@p@}@hAcChEaBfD}D~IeCjImFvQsBfF}@hB{AbCcBzBeCbCsDhCyCzAoChAwBp@{E|@oD`@yDJoEG{CS_C[eGiA{ZiIsQ_FsO_EmOmDsF_A_KoAoDUqGUsIF_F^{Ej@oEx@aEdA}EhBsB|@qE~BsFbDyKbHu[bSaVpO{G`E}VzOwZlR}QpLs_@xUcL~F{IxDkT`Ieh@pQg_Ap[cWxIgQ|G{MlFiRrHc[~LkWhKaRdHuJtCoGxAwI~AcPdBcG`@}RvAsBVkHhAuD`@{ADgDGwDJcLp@wOvAcG|@mG~A}DhAgGzBaChAcG`DuD`CwJrH_XpSsV`RcGpEcExDsC`DuEjG{D~GmCjG_GxOiG~OyE~KaW`k@qAtCgBdDaChCwAdAmBbAqDlAsDl@qDLgCEaBQoFqAaAWiMyFgAi@qAq@oCcAwFoByLqDwIsBsHqA_QuBeIk@kf@mC{SiAcOs@q\\mAoFKwHa@sEUgLa@sKc@mVaAaI]_Ga@oAOaDmA{A_A_Ay@_SwSqQqQ}BiBeDqBiCgA}FwAcSaC{ZqDkBUoFg@aJYqQF{JAiQJySJ}\\DeL^qDCyDB}IIkT@_RFgSFao@RwDIiDSqEg@aEu@aFqAgFoBiHyDqEiDsDsDmDqEiCoEsCwG}C{IaB_EiA}BmCyEuEuG{CoDuD}DiJkIiDkC{GuEwCcBaFoCmHgDqIaDsFgBsF{A}FqAuFaA"
+            },
+            "summary": "Lebuhraya Utara - Selatan/AH2/E1",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

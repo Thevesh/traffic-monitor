@@ -1,0 +1,474 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJgzQilUsS2jERUGKDJyTtW6A",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJEcU_vS1t2jERNO3FmN-qrUM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 1.4799814,
+                    "lng": 103.7727923
+                },
+                "southwest": {
+                    "lat": 1.424056,
+                    "lng": 103.7625336
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "7.8 km",
+                        "value": 7797
+                    },
+                    "duration": {
+                        "text": "18 mins",
+                        "value": 1088
+                    },
+                    "duration_in_traffic": {
+                        "text": "27 mins",
+                        "value": 1615
+                    },
+                    "end_address": "2, Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor, Malaysia",
+                    "end_location": {
+                        "lat": 1.479848,
+                        "lng": 103.7643492
+                    },
+                    "start_address": "Bukit Timah Expy, Singapore",
+                    "start_location": {
+                        "lat": 1.424056,
+                        "lng": 103.7710333
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 472
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 23
+                            },
+                            "end_location": {
+                                "lat": 1.4281405,
+                                "lng": 103.7699346
+                            },
+                            "html_instructions": "Head <b>north</b> on <b>Bukit Timah Expy</b>",
+                            "polyline": {
+                                "points": "kcuG}wjxRsCP_BRo@JKBmAR{Dx@_@JOFk@L_Bb@y@P"
+                            },
+                            "start_location": {
+                                "lat": 1.424056,
+                                "lng": 103.7710333
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 302
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 23
+                            },
+                            "end_location": {
+                                "lat": 1.4305471,
+                                "lng": 103.7687196
+                            },
+                            "html_instructions": "Take exit <b>10A</b> for <b>Woodlands Ave 3</b>",
+                            "maneuver": "ramp-left",
+                            "polyline": {
+                                "points": "{|uGaqjxROPEDC@E@MFOFSFk@PSFk@RsBt@_A\\e@R[L[NQH"
+                            },
+                            "start_location": {
+                                "lat": 1.4281405,
+                                "lng": 103.7699346
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "79 m",
+                                "value": 79
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 17
+                            },
+                            "end_location": {
+                                "lat": 1.4312406,
+                                "lng": 103.7686999
+                            },
+                            "html_instructions": "Slight <b>right</b> onto the ramp to <b>Woodlands New Town</b>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "}kvGoijxRa@F[FG?G?W?c@K"
+                            },
+                            "start_location": {
+                                "lat": 1.4305471,
+                                "lng": 103.7687196
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 454
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 51
+                            },
+                            "end_location": {
+                                "lat": 1.4322137,
+                                "lng": 103.772524
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Woodlands Ave 3</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "gpvGkijxRa@?K[CMACKUI]GWUcBCMK_AIy@I{@Is@Ec@Ei@Q}ACo@IiA"
+                            },
+                            "start_location": {
+                                "lat": 1.4312406,
+                                "lng": 103.7686999
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.9 km",
+                                "value": 857
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 113
+                            },
+                            "end_location": {
+                                "lat": 1.4394295,
+                                "lng": 103.771003
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>Woodlands Centre Rd</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "ivvGgakxRKGAA?ACCCIGIA??ACACCGCKEU@u@HU?KBC@]DI@k@DE@CBC@G@A?QBUB_@Dw@FsCXk@FUBWFWFYFA@e@Lm@Rs@\\c@R[Pa@VSNSLMFYTKHSJOBMBK@M@M@G?K?_C@g@?eA@eAB"
+                            },
+                            "start_location": {
+                                "lat": 1.4322137,
+                                "lng": 103.772524
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 197
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 25
+                            },
+                            "end_location": {
+                                "lat": 1.4397147,
+                                "lng": 103.7693496
+                            },
+                            "html_instructions": "Turn <b>left</b> to stay on <b>Woodlands Centre Rd</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "mcxGwwjxRUJCBCBCDCDCBCDAFGL?j@?\\?vA?\\?hA"
+                            },
+                            "start_location": {
+                                "lat": 1.4394295,
+                                "lng": 103.771003
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 107
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 21
+                            },
+                            "end_location": {
+                                "lat": 1.4399254,
+                                "lng": 103.768422
+                            },
+                            "html_instructions": "Keep <b>left</b> to stay on <b>Woodlands Centre Rd</b>",
+                            "maneuver": "keep-left",
+                            "polyline": {
+                                "points": "eexGmmjxR?^Ab@ALCLGTADM`@KZ"
+                            },
+                            "start_location": {
+                                "lat": 1.4397147,
+                                "lng": 103.7693496
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 321
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 95
+                            },
+                            "end_location": {
+                                "lat": 1.4426921,
+                                "lng": 103.7681129
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Woodlands Crossing</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "qfxGsgjxRI\\Q?eADc@DWBE@C?E@s@BW@[@}C@A?S?}A@"
+                            },
+                            "start_location": {
+                                "lat": 1.4399254,
+                                "lng": 103.768422
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.9 km",
+                                "value": 856
+                            },
+                            "duration": {
+                                "text": "3 mins",
+                                "value": 189
+                            },
+                            "end_location": {
+                                "lat": 1.4497322,
+                                "lng": 103.7700228
+                            },
+                            "html_instructions": "Continue straight to stay on <b>Woodlands Crossing</b>",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "ywxGuejxRKCG?I?i@@G?YFa@FUDc@Na@Lc@LODG?I?I?IAOCMEa@M_@MmBs@GCs@Wu@UcCg@_Cm@c@YOYYUKGc@[k@[g@Ya@S_A]OEUEQAUCO?K?GAQCG?S@K@YH"
+                            },
+                            "start_location": {
+                                "lat": 1.4426921,
+                                "lng": 103.7681129
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 550
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 37
+                            },
+                            "end_location": {
+                                "lat": 1.4544495,
+                                "lng": 103.7685465
+                            },
+                            "html_instructions": "Continue onto <b>Johor Cswy</b><div style=\"font-size:0.9em\">Entering Malaysia</div>",
+                            "polyline": {
+                                "points": "yczGsqjxR}@PuAXeE|@iEz@QDgBb@yBd@wCn@"
+                            },
+                            "start_location": {
+                                "lat": 1.4497322,
+                                "lng": 103.7700228
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.8 km",
+                                "value": 836
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 64
+                            },
+                            "end_location": {
+                                "lat": 1.4613922,
+                                "lng": 103.7660298
+                            },
+                            "html_instructions": "Continue onto <b>Johor Cswy</b>/<wbr/><b>AH2</b>",
+                            "polyline": {
+                                "points": "ia{GmhjxRwCn@w@PKBa@LYHULe@R]LMDSHKBMDSDC@]FUDM@I?YBE?_@@o@?[?Q@K?QAG?]@Q?O@w@Bc@JQDWFKBID_@LIB]R_CpAqBdAm@VqAn@"
+                            },
+                            "start_location": {
+                                "lat": 1.4544495,
+                                "lng": 103.7685465
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.0 km",
+                                "value": 974
+                            },
+                            "duration": {
+                                "text": "3 mins",
+                                "value": 167
+                            },
+                            "end_location": {
+                                "lat": 1.4675276,
+                                "lng": 103.7683788
+                            },
+                            "html_instructions": "Take the exit on the <b>right</b>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "ul|GuxixRWBMDKBM@M@_@@a@AI@C?IBGBo@Tc@Pa@TSHA?a@PqAd@KDoA^u@P?@cAT_AVG@E@E?C?CAC?AACEIUwCsGw@mBAECIAE?E?G?EBI@EDK?ABG?E?E?KAMCMGOACO_@S_@KSGGEGUMcAc@KCMCC?EA]Ac@A"
+                            },
+                            "start_location": {
+                                "lat": 1.4613922,
+                                "lng": 103.7660298
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.4 km",
+                                "value": 390
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 37
+                            },
+                            "end_location": {
+                                "lat": 1.4705701,
+                                "lng": 103.7670701
+                            },
+                            "html_instructions": "Keep <b>left</b>",
+                            "maneuver": "keep-left",
+                            "polyline": {
+                                "points": "as}GkgjxRK@C?GAg@E]EKCi@GMAG?C?A?GAMFIFc@XOJKF]T[R_Aj@u@f@C@YP}@l@CBC@EBA?C@C@G?QLE@KD"
+                            },
+                            "start_location": {
+                                "lat": 1.4675276,
+                                "lng": 103.7683788
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "37 m",
+                                "value": 37
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 3
+                            },
+                            "end_location": {
+                                "lat": 1.4708015,
+                                "lng": 103.7668359
+                            },
+                            "html_instructions": "Slight <b>left</b> onto <b>Jalan Lingkaran Dalam</b>/<wbr/><b>Route 188</b>",
+                            "maneuver": "turn-slight-left",
+                            "polyline": {
+                                "points": "af~Ge_jxROP]Z"
+                            },
+                            "start_location": {
+                                "lat": 1.4705701,
+                                "lng": 103.7670701
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 250
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 27
+                            },
+                            "end_location": {
+                                "lat": 1.4720307,
+                                "lng": 103.7649634
+                            },
+                            "html_instructions": "Continue straight to stay on <b>Jalan Lingkaran Dalam</b>/<wbr/><b>Route 188</b>",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "og~Gw}ixRy@bA[b@w@pAKRO\\a@z@IP_@|@"
+                            },
+                            "start_location": {
+                                "lat": 1.4708015,
+                                "lng": 103.7668359
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 527
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 105
+                            },
+                            "end_location": {
+                                "lat": 1.4751304,
+                                "lng": 103.7629374
+                            },
+                            "html_instructions": "Slight <b>left</b>",
+                            "maneuver": "turn-slight-left",
+                            "polyline": {
+                                "points": "eo~G_rixR@B?B?B?@ADGXuAzEc@jAY~@EJI^WHYFOF_@FO@kCc@m@KmAQSCq@K"
+                            },
+                            "start_location": {
+                                "lat": 1.4720307,
+                                "lng": 103.7649634
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 588
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 91
+                            },
+                            "end_location": {
+                                "lat": 1.479848,
+                                "lng": 103.7643492
+                            },
+                            "html_instructions": "Take the ramp onto <b>Jalan Tebrau</b>/<wbr/><b>Laluan Persekutuan 3</b>/<wbr/><b>AH18</b><div style=\"font-size:0.9em\">Pass by Metropolis Tower (on the left)</div>",
+                            "polyline": {
+                                "points": "qb_HkeixR_@Ws@Gy@MsASyEq@AAi@I]G_@KcAM_Cc@yAUoB[UEH_@NB"
+                            },
+                            "start_location": {
+                                "lat": 1.4751304,
+                                "lng": 103.7629374
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "kcuG}wjxRsCP_BR{@NiGlAo@RkCp@y@POPIFSHcBh@eGzBw@\\QHa@Fc@F_@?c@Ka@?Oi@MYQu@YqBUyB_@}DUmCIiAKGACGMMMKGKEU@kAHODyANQF_CT_E`@m@JyA^aBp@_Ad@wA|@e@^c@Nu@HsC@mB@eABUJGFGJQ^?~D?hBCp@[jAUx@wADeAJmBHqGBSCs@@yATyBp@e@A_Be@_FeBcCg@_Cm@c@YOYe@]oAw@iAm@oAc@g@Ge@Cm@E_@BwAZwNxCqOhD_Cl@gBt@m@Ru@NgAJiD@wBFyA\\i@Rg@VqFvC_CfAe@HYDm@Bk@?UFsAf@u@^uBv@{Ad@yD`AWBMIaDiHy@sBE]Ja@BUAYK]q@wAMOyAq@c@IqAAyAQw@IK?IAWN}AbAuFnDOFYLQFm@l@uAfBcAdBq@xAi@nA@FId@uAzEc@jA_@jAI^WHi@No@HyDo@aBUq@K_@WmBUmHeAk@K}@ScEq@iEq@UEH_@NB"
+            },
+            "summary": "Woodlands Crossing",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

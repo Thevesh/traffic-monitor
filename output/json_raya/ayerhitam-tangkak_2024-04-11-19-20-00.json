@@ -1,0 +1,188 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJT2CeFPBn0DER7tcD1Yr7tp4",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJF8dHLLTE0TERDM8UAN-2MRw",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 2.2466683,
+                    "lng": 103.1895223
+                },
+                "southwest": {
+                    "lat": 1.9245601,
+                    "lng": 102.5442111
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "90.1 km",
+                        "value": 90105
+                    },
+                    "duration": {
+                        "text": "55 mins",
+                        "value": 3288
+                    },
+                    "duration_in_traffic": {
+                        "text": "1 hour 30 mins",
+                        "value": 5425
+                    },
+                    "end_address": "Lebuhraya Utara-Selatan, 84900 Tangkak, Johor, Malaysia",
+                    "end_location": {
+                        "lat": 2.2466683,
+                        "lng": 102.5442111
+                    },
+                    "start_address": "8379, Jalan Batu Pahat, 86100 Ayer Hitam, Johor, Malaysia",
+                    "start_location": {
+                        "lat": 1.9260163,
+                        "lng": 103.1835751
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "10 m",
+                                "value": 10
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 1
+                            },
+                            "end_location": {
+                                "lat": 1.9260161,
+                                "lng": 103.1836683
+                            },
+                            "html_instructions": "Head <b>east</b> toward <b>Jalan Batu Pahat</b>/<wbr/><b>Route 50</b>",
+                            "polyline": {
+                                "points": "sdwJk`xtR?Q"
+                            },
+                            "start_location": {
+                                "lat": 1.9260163,
+                                "lng": 103.1835751
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 585
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 84
+                            },
+                            "end_location": {
+                                "lat": 1.9311081,
+                                "lng": 103.1847135
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>Jalan Batu Pahat</b>/<wbr/><b>Route 50</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "sdwJ}`xtR{A@k@Aq@?{@CG?s@Ck@CK?u@Gs@G{AQYGYEcAS[AE?IAkBe@]K}@]m@Uo@U"
+                            },
+                            "start_location": {
+                                "lat": 1.9260161,
+                                "lng": 103.1836683
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 461
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 79
+                            },
+                            "end_location": {
+                                "lat": 1.9288026,
+                                "lng": 103.1877264
+                            },
+                            "html_instructions": "Turn <b>right</b> onto the <b>E2</b>/<wbr/><b>Lebuhraya Utara-Selatan</b> ramp to <b>Kuala Lumpur</b>/<wbr/><b>Melaka</b>/<wbr/><b>Johor Bahru</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "mdxJmgxtRIEFOVs@FSLc@h@kB\\gAVs@|@gB^i@TU@ARQTMRMDALETENCPAp@CNA"
+                            },
+                            "start_location": {
+                                "lat": 1.9311081,
+                                "lng": 103.1847135
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.1 km",
+                                "value": 1072
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 68
+                            },
+                            "end_location": {
+                                "lat": 1.9275179,
+                                "lng": 103.1868302
+                            },
+                            "html_instructions": "Take the ramp to <b>Kuala Lumpur</b>/<wbr/><b>Melaka</b>/<wbr/><b>Yong Peng</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "polyline": {
+                                "points": "_vwJizxtRP@L?~GS\\?^?vACvAA`CGPAJATCTILGTQPSJOFOBE@IDW@Q?QAQCSEMEMACIQMOOOUOKECAGCMEEAG?WEC?I?O?IBSBSDOFSJCBIFONEHKNW^CDABIPiCrFk@nAq@hA"
+                            },
+                            "start_location": {
+                                "lat": 1.9288026,
+                                "lng": 103.1877264
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "88.0 km",
+                                "value": 87977
+                            },
+                            "duration": {
+                                "text": "51 mins",
+                                "value": 3056
+                            },
+                            "end_location": {
+                                "lat": 2.2466683,
+                                "lng": 102.5442111
+                            },
+                            "html_instructions": "Merge onto <b>Lebuhraya Utara-Selatan</b>/<wbr/><b>AH2</b>/<wbr/><b>E2</b><div style=\"font-size:0.9em\">Toll road</div>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "_nwJutxtRCFs@~AYt@cAfC[~@kAhDg@vAu@|BEJiBjFeArC_@jAO^M`@M^M`@y@bCA@M\\wAjEYz@O^g@xAsA|DaArCO^kBpFcEfLaG`Q}@jCYx@uA|Dm@fBi@|Am@`By@vBo@`BgAjCw@dBs@vAUf@gDvGILINqEtIyC~FiHhNo@nAQ^_FnJkBpDcAnBaAhBGJEJGJuA`CuA~BSZ_CpDm@~@eHnKy@nAuApBEFy@lAkAdB_B|BWb@mBxCkAtBABOXQ^a@~@GJIP}@tB}ArEs@`C?@w@`CM^m@`BiA`Cc@x@i@x@gA~A{@`ACDqApAsAhAKJ[Tk@d@gIrF]TUNcIpF]R[TuA~@eHxEqA|@[TsClBqBvAoB|As@r@m@j@A@UX[^aAnA]h@c@p@m@jA_@x@[t@a@fAEPGNWz@K\\c@jBSpAUhB]`D?DK~@Eb@]dDWxCE`@E`@[zC[bDYtBWzAk@zBc@zAm@|Aq@xAe@|@y@pAm@x@MNy@bAo@p@GHu@p@aAx@YTEBmD~B]T[T]R{CnBwD`Cc@Zq@d@MJMJmEbDkB|AgBvAiBxA}@v@QPYXYVYXGHwAnAgB~AoCfCmAdAYVg@d@KJcBzA{AvAgA`AMJKJmAhA[V_@\\SPyArAyCnCqAlA}AxAwAxA{@`ASRCD_AhAuA|AoA|AgB~BiCnDw@hAmBrCaAzAqA~BaAjBg@`ACFqApCy@jBwA|C_BlESl@k@jBUt@kAjEu@jCOj@Qz@K^u@lDSbA_@rBSfAi@hD[~BW|BQbB_@`EWrDI`Bw@vNCXAXk@dKMhB?JCVGfAe@`IiA|RGlAC`@m@dLIbD?VAb@AnA?Z@|BBzANhCJlAL`AHr@Hp@ZfBNv@DPj@bCvFbT^dBTpANpABNBb@Db@@D@\\Dz@D~AA`CCt@C`AUhCWjBUtAi@rBo@lBo@bBGJm@nAq@hAGJaAtAa@h@A@gApAk@l@qHxHcBfB}@bA_@^_@\\c@b@c@b@{AxA}C`DUTYZQTIHIFk@j@aFhF[ZYZaAbAkGpGmFtFgBhBs@r@aCdCeCfCc@b@sEtE[ZYZe@f@u@v@}BfC}A~AWXYXuF`GeBhByJ~JeBdBmLrLWXkAjAYXuCxCs@r@kLrLWVYZYXgAlAQPuHzHYXiBjBkFzFyG|Gq@r@YXQP}CtDmBxBm@p@QPOP}BhCqB`CUX{D|EWZ{BpCeAlAyB~BsAtAqDnDaCrBURUPa@^iCjBkBrA{@h@C@e@XmBnAaB~@kBfAwC|Ay@f@SLaGxC_@PsCvAuG~CmCtAgFlC}@b@SJSJqFjCgB~@iCpAuCvAkAn@k@XQJsA|@oBxAcBdAiA~@OLIHuCpCcBbBqArAWXMLiBvBWZUZWZ}ApBwElG{DdF?@UXUZwEhGkA~A_AnAIJuAhBkA|AUXY`@UZcJzLi@r@s@`AIJOTe@l@GHOVyAtBkA~AcAnBs@`AqA~AABuAjBkFnHe@p@]d@]f@g@r@KLwAjB_CrCOR]j@aArAkCjDMNmA|Ao@v@UVaBlBgElE{AvAYVKJYVu@n@eC|BeF`EgAv@kClBaAr@iBpAgJxG_IzFk@`@gFdEeDnCq@l@oEdEyIlJA?UXwHzI_H`IWZYZ_H~HWXWZEFURiD~DoDdESTSTa@b@yEnFaBjBoDhEyBhCsDbESToA|A{@fAeA`BILkAxBeAbCoA~CSn@k@lB]rAa@nB]lBQxAWfCKfB?@EfACVAl@A^AnACrB?VClAGfCEdEEnCEfEAb@?^?BE`EG`DEhDEhDCbC?h@?tD@|@DpBJtCZpD\\`DRfAXbBPz@H`@XvAj@fCd@`Bp@rBZ|@h@rAFPP^Zt@Tf@l@nAnAzBFHP^b@t@j@|@l@z@b@l@FHTZl@v@HH|@dAh@p@hBjBXVnBfBjA~@nA~@fBnALH\\TZTB@fCxArAt@lAn@dAl@ZNp@^HD@@PJHD^Rn@\\|CdBTJLH^PLHNHLFz@f@lAl@BB|C`BvBjArAr@|Az@`@RJFp@\\vC`BVL~CdBpAr@hBbAdB~@hB`A@@RJHDlCvAJDDDt@`@\\RNH@@hAt@LH|@l@jBtAZVJHrAfA`BvAj@j@r@t@l@l@Z`@TXJLJLJLxAhBBBlAfBdC~DfAxB@@DHHPZr@DJP^b@`Ad@hADLHRd@rAL`@\\`ANl@L`@b@~An@tCl@lDBNPtAJz@Fl@Df@@LDb@?BBXDl@F~@HjB@@BfA?B@\\?D@b@BrA?vA?j@AxAG~BKjBG~@Ed@QjBGb@Eb@Kt@Ip@Mv@UrAId@G^I`@Ib@Mn@g@vB_@nAGTGRk@~AGNIVEFEJYr@CF]v@CH]t@KTg@fACDi@dAINYf@KTq@jA]j@S\\GHKPe@r@CFUZMRo@|@[^KJu@~@CBq@r@WXEFSPk@j@_@^QN_@b@UT]ZIJMLq@t@MLc@d@[\\STi@l@cAdAMNY\\m@p@o@t@KJs@x@_@b@WXWX?@WXk@r@y@|@i@l@IHMPa@`@OPYVi@j@a@`@WVgBlB{AdBq@z@}@`AiApAw@z@STa@b@_@Z_@\\_@\\}@r@o@f@c@\\QNKFiBtAo@f@i@^]T]TA?UNc@X[PA?WNC@[PWL_@Rc@T_@VC@c@XUNMFWNQL_@T]TA@[RIFMJC@OJGDCBWP]TCBWRIFUPGDMJa@\\kFlEwAjAWPGFSNGDSNo@d@cBfAmAr@s@`@{@b@yAr@a@P_@Pq@\\A?]No@Z[Lu@Z{@Zo@Ra@LQHYHGB_@NA@]LMF[L{@^GDOHMFKFy@`@GD]RGByA|@kAv@qBvA{@l@[TQNYRg@`@s@h@k@f@m@h@GF[XGFA@y@v@GHc@f@w@~@a@h@GJKPg@v@OVEFOTEFQ\\MTGJq@lAm@fAc@bASj@CHABKZCDABGVABQl@GPQt@UfAMp@EVAHGb@Gb@G`@ABE\\Eb@ETQbBIv@Cl@E|@?@?FAbA@`@?h@DvABd@Dn@HhAN`DFnABb@Bl@DlABb@@b@@F?F?RFzC?B?^?V?b@?b@?pA?bA?b@AjAEvBCr@C~@IxBQbDEd@SzCCXG|@MxAe@fGQtBGt@APGr@WhC[nDEb@ANWrC?@AFEZE`@?FEXOlBCd@IbACb@?@Cb@Gr@]~DYtDIdAE`@Cb@I|@]|EY~CQzAUtCa@jEC`@Eb@CPEt@OtBQzDQvEALCfAAb@Ab@Ab@Cz@EvB?DCdB?^CrCAb@?b@?JEfDAfA?JInFA`@?d@Ab@CzCEdFGfG?J?VElD?ZAn@AtAIvEC|BA|AEdBKbC?BC^G|@Ev@Gr@WfBWhBEVUpAQ`AIf@Oj@?BUx@s@nCu@zBADKZm@bBw@fBo@tAaAlB{@|Aa@p@aB`Cm@z@c@j@aCvCEDMLIJMLq@n@eAbAkAbAOLIHIFED_@Zo@d@qCnBgBhAuBjAoBbAiAh@sHxD_@P]R{At@]PyCzAA?]PA?[PA@sHtD_@RwCvAs@^aFpCoAv@GDUNGBuA|@mDnC{AtAoAhAw@x@m@l@s@x@eAjAgB|BiA~AeA~AaBnCQ^Q\\A?s@|AOXABIREFa@~@a@bAO^{@xBqAjE?@A@I\\?@oAtEc@zBEZGXw@xGo@tHABEbACb@Ep@ATk@bRCdGBnK\\|HVxFb@lF@JVrC\\~CF`@BXBHNdA`@~BlAnHDRFXFXxA`H`B`GJ\\J`@@DdB~Ff@nBf@dCRbAH^p@~E`@zDTtEDzB@^?B?h@@b@?\\@zAAvJ?b@?D?\\ElJ?@DfABdAGnICfAAP?D?FM`EUtEQfBOdBSrBABa@nDQ`B_@vBWpAc@jBgAbEQj@q@nB_@jAoAjDsApDO^eDrI}C`IoWhq@CFQ^o@`B_A|BwBnFyBrF_HbQuAdDM\\Sb@KVyAtDEJ?@GNGLsAfDO\\O\\M\\_@|@]x@m@xAUl@O^i@rA}A~Dc@dAO\\EHIREJO^_BzDa@dAg@jA{@vBg@rAKXMX}EhN{@bCk@`BeC`H}@fCs@dBKV{@vBO^[v@GNu@xBW~@i@fBQp@Ux@g@xBc@tBEVI`@CTG`@EZYrBMpAE^?BC\\Iz@K|AIfBA`@Ab@A`@CjAC`B?zCA`ACjCE|D?N?RC~BElCEdE?HGjFEhDAr@Ab@?b@Ab@CzBGlFOnN?DAb@ElCCxBIjEEjBIjBKhBC`@Eb@ANYpCOrA_@tCYfBQ|@WpA[pAi@vBQr@Sr@o@nB]bAaAlCm@zAcBnDiAvBoBrDIPoAzBw@vAu@tACDaAfB{BdES^_BtCy@zA[j@uAhCmAtB{@`Bw@zAyAjCMVeBbDi@|@u@rAGJ{ArC}@`Bq@lAS\\Q\\gB`DgBdDmA|Bm@bA_CzDgAbBoAdBkB|By@`AmApA}A|AcB`BgBzAkBxAoBtAKH{BzAiBbAmBfAyE|BkEpBoCrA]PqAl@iD~A]PiAh@cCfA[N]NoAh@c@ToB`AuB`A_@PC@[N{BfAyCtAaCfAyDhBaF~BkEvBgClAyB`A}UjLcMlG{HtDKDm@Zi@VqDfB_Ad@u@^wFfCa@R_@PKDSJaBv@uBbAkAh@OFi@XiFbC{FlCaCdAaBt@iFxB{Ar@A?]NA@gAd@cDxAgDxAgAb@WNWLwFzCuCdBq@d@[T_An@yEbDaCfBkCpBsCdCi@d@IHmAdAcB`B_B|A}A|A{A~AiBpBy@`AaBrBuAbBwAnBeCnDuB`DgBpCUZU^aIbMuGfKW`@qBzCiBxCkAfBwF|IgJ|NQ\\mAzBABqAjCkAjCIT_@|@Ul@?@y@pBm@hBk@fBy@nCk@zBc@`B_AnEKl@G^A@ObACJa@hC]fC[~C[bE[jDEb@e@vFE^?BKlAI~@Eb@q@dII`AkApNKdAEb@UlC_@tE_@rEIdAEb@KjAeAfMUjEk@rF_@nDCNCP?@Gb@G`@G`@G`@YjBI`@I`@EZAD?@K`@m@fCu@vDCFOd@c@`Bw@bCELGPs@pBo@~AIPO\\e@dAcAvBeAtBYf@o@lAkAtBq@hAaBjCwArBsBrCk@v@uAhBgCpDUZUZi@x@_ApAs@hA_A`B{@|A_AjBo@vAO^EF[v@]~@EHu@vBy@hCaArDq@xC_@`C_@bCKt@EXAHQhBOjBMfBEpA"
+                            },
+                            "start_location": {
+                                "lat": 1.9275179,
+                                "lng": 103.1868302
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "sdwJk`xtR?Q{A@}AAcDKeJeAyCs@eDoAt@{BfAsDtA{CjAsA|@c@xLc@bLUjAw@Xo@DmAQs@}@aAe@QaB?{@\\k@p@sGpM}IhVsSfm@}Wfv@aExKiEpJs[dn@}P`\\mU~]_MpRkAdCyE|MeAbD{C|GqD`FmE|D{ZzSgPzKaFtDaB~AuBjCoC`FkA~C{AvGaCvUwAvMcAvEqAxDwAvCgBjC_CnCwCdCeG~DiLrHuIxGwJpIoQbP{IbIcLjKkDtDmIdKqJhN_EtHcIhReGnT}BlLoBjOyBn]_AbPuD`q@MnHT~Jl@tF|AtHvGhWd@bDN|AJzHu@lJ_AhE_BpEoBpDmDrE_OrOqLrLkLxLup@`r@ccAtdA}_@z`@aRjTuKxMmEtEsHbHwEpDqExCsMtHoJ`Fwb@bTsMxGaG|DgE|CcJbJsNxQuQbViTpYgAxAyF|IkP`UgO`SaD|D_LjLaFpE{NzK}XhSoShQiTbVqRxTmMbO_\\j_@wEpHuCbH_A|CoBjKi@xHYvOa@h]O`ORzNx@rIl@jD`B|H|CfJjAnCvCtF`D|EtAfBjFzFrJvHjAv@hMdHlIpEp`@bThWrNpEdDtG`G`F`G|GbLp@zA~CbI~ApFrBhLj@nGZ`I@pHa@pIcBlMaCfKeCnGgD`HmDbGgFpGoK|KkPbRsTfVoGhF{HrFgJlFmFvDoLrJuFpDkFjCoH`DeExAqEvB}KnHeGbFqEhF_CzDkCdFe@tAqAbFu@~Eq@jIDfFb@`I\\fIFdKGjHc@pKsBfXeCdYqF|p@iAdTWrMm@tn@YzWUlGm@pGuBfLwBlHwEnKmFlIyDvEuFhF_BnAyFxDeFnC{LhGsGbDkPfImJnFaH`FqGfGkHbJyDnGwAtCs@~A_EhLmCjLoBvSw@nU?tSt@vPzAlP|ChRnEzQzCvKvBhMv@pKFzC@nB?|N?tMInNc@dLw@dIkBzMoDjMsEhMwa@ffAwVjn@cFdMaLzXeFdM_HpRwLd\\qB`GyBlI_BvJw@tKOrNy@jv@u@de@W~DcBbNoBxIsBzGoBhFmDfHaGxKaMfUoObYwK`ScJbP}HhKwJlJcJtG}RzJiLrFiOdHgWtLycA|f@yTnKol@fX{M|F}L~GgJnGkMdK{GnG}IpJuKvNiGnJwn@fbAsDhHkClGsCdIiE|Pe@rC_B|L_C|XuEjj@{@hK{ArSkAbLOfAq@pEuApGmBfIyBtGoBtEsEbJwH~L}JfNuCbEoFtJaBvDsCjIsBlI_AdGe@bEc@dH"
+            },
+            "summary": "Lebuhraya Utara-Selatan/AH2/E2",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

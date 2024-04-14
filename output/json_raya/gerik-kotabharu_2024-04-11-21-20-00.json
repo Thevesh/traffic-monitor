@@ -1,0 +1,551 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJHa5cEkUQtTERLH8N92S9oog",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJG1031sWvtjERQTdoGr9O87Y",
+            "types": [
+                "establishment",
+                "lodging",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 6.125823599999999,
+                    "lng": 102.2421185
+                },
+                "southwest": {
+                    "lat": 5.4285142,
+                    "lng": 101.1291785
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "213 km",
+                        "value": 212885
+                    },
+                    "duration": {
+                        "text": "3 hours 33 mins",
+                        "value": 12770
+                    },
+                    "duration_in_traffic": {
+                        "text": "3 hours 27 mins",
+                        "value": 12413
+                    },
+                    "end_address": "3761, Exit Jalan Temenggung, Bandar Kota Bharu, 15000 Kota Bharu, Kelantan, Malaysia",
+                    "end_location": {
+                        "lat": 6.125823599999999,
+                        "lng": 102.2378125
+                    },
+                    "start_address": "77-79, Jalan Takong Datok, Pekan Gerik, 33300 Gerik, Perak, Malaysia",
+                    "start_location": {
+                        "lat": 5.4285142,
+                        "lng": 101.1297837
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 110
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 35
+                            },
+                            "end_location": {
+                                "lat": 5.4287572,
+                                "lng": 101.1288194
+                            },
+                            "html_instructions": "Head <b>west</b> on <b>Jln Toh Merah</b> toward <b>Jalan Takong Datok</b>",
+                            "polyline": {
+                                "points": "egc`@c|fhRIf@g@vC"
+                            },
+                            "start_location": {
+                                "lat": 5.4285142,
+                                "lng": 101.1297837
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 257
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 64
+                            },
+                            "end_location": {
+                                "lat": 5.4309791,
+                                "lng": 101.1294487
+                            },
+                            "html_instructions": "Turn <b>right</b> at the 2nd cross street onto <b>Jalan Tun Saban</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "whc`@cvfhRuFeAgB]}AY"
+                            },
+                            "start_location": {
+                                "lat": 5.4287572,
+                                "lng": 101.1288194
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "81 m",
+                                "value": 81
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 37
+                            },
+                            "end_location": {
+                                "lat": 5.4311443,
+                                "lng": 101.1287363
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>Jalan Stesen</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "svc`@azfhRO|@ABKj@A^"
+                            },
+                            "start_location": {
+                                "lat": 5.4309791,
+                                "lng": 101.1294487
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "2.5 km",
+                                "value": 2453
+                            },
+                            "duration": {
+                                "text": "3 mins",
+                                "value": 188
+                            },
+                            "end_location": {
+                                "lat": 5.4513237,
+                                "lng": 101.13635
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Jalan Baling - Kuala Kangsar</b>/<wbr/><b>Jalan Lenggong - Gerik</b>/<wbr/><b>Route 76</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "swc`@sufhREP_@G}Bc@GAq@MgB_@aAMA?}@I]Ce@Ay@C]CiCGcAE}@AOAWA_@AC?c@CI?o@Ck@C_@A[G_@Ia@OiAm@}@i@iAu@u@k@k@_@KGk@]CAq@_@ECu@[GC_@Q}@a@]Qo@[y@g@YQ{@k@gBoA_@YaAq@wByAcAo@YOeA_@gA]g@OwA_@qA]CAgBc@_@Iu@OgB]a@GuE{@sEq@kC_@k@Go@M[I{Ae@g@Oe@Ky@U"
+                            },
+                            "start_location": {
+                                "lat": 5.4311443,
+                                "lng": 101.1287363
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.5 km",
+                                "value": 1522
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 113
+                            },
+                            "end_location": {
+                                "lat": 5.4553581,
+                                "lng": 101.1488753
+                            },
+                            "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Lebuhraya Timur-Barat</b>",
+                            "maneuver": "roundabout-left",
+                            "polyline": {
+                                "points": "wug`@eehhRA?A@A?A?A?A?A?A?A?A?AAA??AA?AAAA?AAA?A?AAA?A?A?A@A?A?A@??A?A@??A@?@A@A@?@?BK?I?E?QEIEGCEEEIIQMw@i@A?QOMKMSMSKUSc@EMEQKg@Cs@Au@?MAaA?_@?i@AYAUASASKmAKaAEs@Ca@C[?GIoAMuBImAI}AGSI{@G_AGs@IgAC]C]Ea@G_@I_@AEQg@O_@KS[i@]m@?AO_@MUy@{AQ_@[k@_@m@GMKOKSMSKYEQAIGi@A]ISEKEGEGSQ"
+                            },
+                            "start_location": {
+                                "lat": 5.4513237,
+                                "lng": 101.13635
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "145 km",
+                                "value": 145005
+                            },
+                            "duration": {
+                                "text": "2 hours 13 mins",
+                                "value": 7951
+                            },
+                            "end_location": {
+                                "lat": 5.821511699999999,
+                                "lng": 101.9678453
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Jalan Baling - Gerik</b>/<wbr/><b>Route 4</b><div style=\"font-size:0.9em\">Continue to follow Route 4</div>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "_oh`@osjhR\\}@Tm@v@gBt@iBT]JQNS\\]`Au@bAo@hAw@n@_@z@i@x@o@BCVYf@m@\\i@L]b@uAZqAFYPw@FYXiADSLk@Ja@Nk@x@wD\\yARaAR}@XsANu@Lq@Hm@@W@QBm@@o@AKAk@SwAS}@Ww@Q]KU[e@}@gAe@]k@c@IEIGa@U_B{@{@c@{A{@q@[MIy@e@k@_@AA]UEEe@]}@{@][o@o@gAgAaAcAICAAA?{AsA{AiAqAq@i@[AAAC]MmAa@oA_@gBg@k@QaBg@k@QmAa@m@QuAa@YIa@M[KC?a@Ma@KOEQG_@KKCUIa@MeDaAq@SwDkAwBq@aBi@A?w@UIE]KCAQI]SYQQOSWU[?AIQEKIWG[Ee@Ac@@WBWBe@Fc@Jw@p@wFLw@XgBFc@DSb@{CTwAF[?EHc@Fa@Hc@Ls@Ls@BQDOJ_@?CHYBEFQJ]HQDILSBIZi@nAiBNQxAeBLOFKV[T[dAqAFINQT[FGNSn@u@PSDEV[j@q@vDkEfBwB`AiAFIbAmAZ]VYhAmAX[LO~A_BpBwBl@o@BCXY|@aAd@e@VYBEj@o@LOHKZ]HKj@u@HMDGT]h@gAHQHQBGFWBIDMFSDSBOBOBQ@GFa@BYBQ@_@Bo@?S@K?]?gC@_@AmB?E?_@Ac@?q@A_B?M?c@Ak@?]?gAAu@E[CW@UAY?O?iA?q@?gFA_B?WAuBAkA@kF?eC?c@?aA?q@BiB?i@BQ?g@?aEAg@Ay@EeBGmB?AYoGC]Cc@AUSeEEcAG}ACq@Cc@OuDc@gKAWAKAW?KCc@MeDGuAAS?OKuCGaACc@_@_HCo@Cm@Cq@C_AAGEgAEy@AMCSCOAGIe@GYUo@Qc@IQUa@S]SWOUs@s@gBaBYYIGi@i@WYW[GKU[MSMYO_@Oa@IYI[EOCOGe@Gi@Gm@YwDYaDM_BEc@AGKaAG_@I[I]M[IQIQYa@QYEEWY]Yu@k@{@e@]S]SwBoAe@Yc@Se@Oe@O[GUCQCSC[AGA[?E?_@@a@BK@c@FyARy@Ju@Fs@@m@@]AKAQAe@EWEYGgA[i@O}@[w@YcBo@}@[e@QmDqAyBw@[Mc@OaBm@eBg@a@EKEGAYGcAUWEmDk@MKuAYsF{@aAQC?kDe@uDk@{AYoDc@IAKAMAmD_@wC]eCWwBW}C]eCWKCgAQ_@Ga@GA?SEa@Oa@OyAo@qAc@MEq@Uk@][WU_@MWEKKWCWA[BUFk@Na@v@cAXWp@o@@A|@}@h@e@^_@x@eAVm@DWDW@]Ci@YeBCQCMAS?K?K@M?GBa@Ne@HONUPUNKHEjAa@LEfAYn@Wf@_@T[Nc@Hs@JwB@qAA_@E{@Ic@Wg@Sa@g@k@MMcByAOM{@gAMWGOGQMe@C]Gk@?m@ByA?O@y@AYCWCSCSCIEKGQ?AGUCIOYIKUQ]SOKm@YiA]KCcBc@a@KA?_@KwCu@sAa@eBe@eAKOCS?]CE?gABA?_@DG@w@NYLIFKHSRa@f@cAbBq@n@cAn@e@V{CtAYLCBi@Zm@^YRCBGFOPKNWZSZILOV]v@]l@QROLUNGBKDMDSFIBA?I@WFC?cADM@}AFA?cAHA?UF_@N]RGFONGJMTSl@[~@m@~A_@z@aAlBEDg@n@[f@WTA@YRA?YLWDQ@O@S?K?OAa@Gi@O_@MWKgAe@[MCC_@QQMMMY]MUGIYu@S]ACQYIM}@w@_D_Cg@e@q@o@s@s@s@q@CEUSe@c@OIOIOGOGQCa@Ec@AQ?QBc@Da@Ju@RKFQHaAt@A@IHMNGJKPCHKT?BM\\M^ABMZWb@STQPGDOHWL[JgAZ{@Pa@Ja@HA@cAPUDk@FC?U?MAIAa@GWOe@WQQGGu@}@qAcBi@w@OYACKWAEEOEQAICM?I?AAY@]Bs@@c@AYAGAMCQACACCGMQOSQMSKGCSEEAIAI?I?E@QBK@C@MBYLMHMHURA@q@v@CDq@r@SREB[VEBQLa@PA@UFQDU@U?_@Ag@Ew@O_@GA?c@GeAMEAk@EMAM@S?G?E@]BUDKBG@YLMDKHYR[X[\\OPGH]\\UPQNIFULg@VIDk@Ra@Jg@LE?cARE@]DmARaC`@MBUDiB\\qBd@SDMBSDA?c@D_@BiABC?_@COAe@Ga@GGC[OC?o@Sq@Y_@Oi@SuCmA_Aa@EAYMa@Oq@WMEcBi@_@Ma@MGCqAe@iBq@iDsBAAw@k@y@i@kAy@IG[W[USQGEyAoAi@i@YWAAUYMOaAsAyAuBk@eAA?[m@ISGOGQGWESOw@Gm@Gc@Gc@Ea@Gc@SaB?GGa@Im@C]AU?I?I@KFUDKFKXk@t@kAP]DGJWBIFWBMBS@KBW?A?a@Ea@s@gC_@aAO_@Yq@k@kAWi@KUYo@GMe@}@EEQq@Ie@KaA@k@?EBc@@YDq@@Y?]?KCUCKEOCKEIK_@SYWY]UCCq@]q@Ua@Q]WMQOWQc@AAI[CUCQA]?E?W?yAAgBC{BC{AAc@AOASCc@AOKm@EUESCII[IUKUMSS_@QUoB{Bw@aAGGYg@KUGUCU?M?C?Q@M@GBU@ELc@L[FIFITSNI\\SFCv@]?A\\Q@?PQDEPY@CP]J]@EBQ@UAo@A[G}@IgAGgAEc@QoCAQAQKeAEc@MuAO{AAMEUAEIYKYMWKQGGGG}@s@[UKIoAaAQS_@_@OSKOKSSk@COCWCY?Y?_@?_A?G?gA?iAAc@?]?EBgA?EB]DSBM@EFQDGDGHODEDERQTQFA^OHCf@KTEbAGB?^?fACB?^A|ACLARCLEXEFEPIh@]JGx@s@d@]BATKHCJCVGTEHAB?L?P?N@R?b@@V?J?b@?Z?F?ZEDAXGXMLILIJMTW@Ad@s@Za@V[VYRUb@WLGNGNGz@O~@A`AC`ACl@KTEj@UFCTQLKZ_@\\c@pAaBhAeATOLGDCXIZGFAb@C\\Ch@?b@Ab@?b@?nCCT?J@vFj@^Df@FB@^@T@b@EZGVMVORQPWDKDIDWBK@W@KCo@AKOeAK{@Em@Ee@?a@?IXsABI^_BXkAHa@Lg@@]@QCc@EQSu@GKS]GOMK[WCEk@W]GcBW}BIE?kCIgAEc@MCAYQKGOOWWiAqBeAkBWWMOc@c@OMOISKCAYIGAa@IOEQCa@Ic@IiCe@kB]u@Sg@UUKy@i@q@k@_A}@WYW[ACi@y@c@{@M][w@WeAMi@i@aDIa@Ic@WsAESOy@I[EOIUOg@Qe@y@yBUg@O_@]{@CC[m@S[GMAAEMGSKa@IWm@mBGMEQMa@M_@Ma@EKISMYQYEIGIOQ[U[WCAc@UUKIEu@WcC{@aAWuAWC?aAKC?a@AA?_@@i@Dc@F_ATeAR}ACMAeAGWAw@@g@B}@P}@XcA\\q@N}@Ri@FC?e@?e@Ee@K[KMISQKQy@cAe@i@_@_@]YKIu@SKAGAA?OASCQ?uAEq@KUIKCWOWSWUAAmAkASQgAeAk@]m@Qk@Eo@BE?aB`@WFk@LSFc@@_@Ci@QEEc@W[SsA{@]S[SECiBsA[UAAqA_Ay@k@_@W}AgAoAy@}AcAYUUa@Yu@GOGQI]ACK]?CCIq@{BEMGQIa@AAC{@@IBa@@A?AL_@BKTe@\\i@@?R[JO^i@T[PYZ]f@k@HGPI^OLC@?XEF?`@C@?j@?XF@@`@HJ@rBz@LDr@XZLt@NR@PBPAVA^Cd@Md@S@AVUZa@L[Pq@Da@BQ?[AIC_@?CCMEQUm@MQKOWUOMIIOKu@k@k@k@q@cAe@{@Uu@Ca@A]BWHq@DYNaADq@?KAWAMKa@MWSUc@]g@Uu@Ka@?c@AgACe@?kCGcA_@c@a@W_@GIQm@Gw@Bi@BYZs@Za@VYV[t@m@XWZWXWPOHGXWpAgAZWn@i@DCZUTO\\Oh@Ix@ExACzBEJArDOjCSpBKHAb@CpAKVE^E\\KDAPGLIJEPMFGNQDILSFKFSDIBYDU?]Ca@CS?EGSCGk@aAQUeAqAW[m@w@}AmBoBcBo@Ya@Oi@Mg@KSEOCq@Q]MSKg@[YSOQW]IOGSCOCMCc@@WBMJg@JYLQRWBCXUj@QPE`@Ih@IZEPCPCrAO|@EnDA`@@dAA\\ALCHAPGDAJETMPKJMP]L[RkAL}@C]?E?g@AKCWK[Ma@?CIWGOISMUGQQ_@]q@]eACMCOCOCQAWC[@OAIAo@Cq@Cc@AEA]?EC]?EAc@CeAAc@?MAUAc@Ac@Cc@Ac@CgAAc@MsDAc@Ac@Ac@EgAAc@Ac@GkBAc@EkBCe@CgAGkBCgA?c@AI@gA@QDUJ_@LSZ]`@_@d@g@XW~F}EfAw@d@{@R]Zi@FUJ_@DO@SBUAMAYCIKg@Us@[c@MKSMy@k@GEWGc@M_@CA?c@@K?UBkAJ_@?c@@}@?m@Ec@CcAGA?c@E{Hm@sKMyA@uAQ[Om@Y_@e@W[GIGOACIa@AEC]CUAUCuAAY@gA?c@?gA?c@?c@?c@@c@?c@?c@?c@?A?gA?c@@gA?c@?W?o@?A?a@?A?eA?A?a@?A?WCs@?CIYMg@S[KQyAuAw@m@YUYUMMUScAeAmAw@UG[IEAa@EMCU@c@?c@@I?YDa@Hc@FODwAVE@[@c@?WAmAa@A?iAw@IG{@i@GEs@UE?_@CC?Y?G@c@Fc@Fa@Dq@HUBa@DqAN]B[A[GC?u@W]UWa@S]w@kCMUU[QMOIOGwBu@yCoAgAk@[W[g@CIOa@Qg@q@}BK]ACSy@AIEc@CU?M@o@Hg@@EZw@DIP]BG`@u@R]Ve@Rk@DOFY?E?OAQEQI]GUCIOSQSqA_AeAq@sA{@_@[U]SUW[Q]ACO_@Ue@IYK]ACMQQUOO[SICs@UCAa@IME{Bc@_@IAAmAWUMECQOUW]o@IUMa@CEQ}@AGK_AG}@Gi@Y{@e@w@e@k@UO]USMu@[QKQMIG]_@Y]KUO]?AG_@?CEY@GBc@?IDYFa@Hc@@IXeANm@BIRu@Fm@Ae@Ce@?ACIGKEGc@u@ECmAkAYWYYYWYYWWYYm@m@{@aASa@U[KSEMISEMUw@O[CEO]K[ACs@sAi@y@W[CCOO_@SYSWUWUY_@IKS]Q_@O[Kc@G[AGEU?MAa@Cc@?AEc@AGC[AQIq@?AKe@Ie@_@q@[a@EGQQQQi@o@a@i@EEQSQQEISYAAKYAGEUAKCg@A_@?OBSHc@@GTkARqAFm@F_@B[@o@Bi@Ds@Fk@F}@Lg@J]Ne@Nc@BKLS@AZ]TOLId@SJGREXIFAb@I`@G?A`@Ef@I|@Od@Gb@GXE\\K@?XMZMFCJGNMJINUFOFUDM?I@WAKCQKe@Sg@M[Qo@Ka@Ki@Gc@Cs@?I?OD[HYDMHSBG^g@n@w@DEl@g@Z[^c@RYHK\\i@`@u@BKNa@DONs@Ha@BQDQJa@Ja@FWXcB@OFa@BaA?E?u@ASIeACc@C]Mw@OsAOmAAIQ{@ESUqAIk@Mg@Oe@MWcAeBMQ}@sA[[CCUSCCYOAA_@GQCUA_@?aALiAVODQ@aAJe@BA?YAWCYImBu@oAi@i@]a@Yc@a@SQS[IOAICGEW?ACYAIAc@A_@?C?c@?c@@c@?c@?G@[?GBYHc@Fa@Hc@BKZmCHy@Dc@@i@?[A_@E]Ww@w@uBKYCGWcAACE]EWWuBGc@Ea@UiB?AGa@SiBEc@MgAMeAGc@c@_EQmBA_@Cc@?A@a@?KDq@Fe@BEF]@EFQLWJS@CLSv@_AbAaAjAsAj@i@\\Sv@]JCd@K^Ib@C\\AD?b@?Z?D@b@Db@Db@B@@f@BZAXIb@Ub@]^k@DGP]JSn@yAr@eBJ[v@_CPc@\\}@@AR]`@s@Zc@T[x@aA`CeCd@{@FKHSBIHUBMDc@@U@QAQ?e@Ea@CUSsAUkAe@uBCKKa@Ka@GSScAGc@?A@_@?ABc@@EJw@@GD[@G@SAO?CAUGUGUCI[q@U_@U]S]MSu@kAoBcDYc@S]EG}AiCGIe@q@GGQO[WEECCQMKIOISMKEo@WOG_@MKE{@_@oAg@GC_@Q_Bq@[OCA_@O]QGCq@YGAGCWGcAWAAoB[KAUGeAUKC}@[UMUUACOQACKUCICGEOCIAGCICOCGCQAGCa@?A?I?I@O@I?EDQHSN_@FK\\s@To@He@Bc@EgAMkAIk@W{BK_B?k@@[@WL{@HSFQHKFIb@o@DGRQf@g@HIZWFGLSHWD[B}@E{C?O@{DCiCAcBEkBAGCc@AKKs@CEMa@GMIO[o@KKU[W[CEWQ[U[U[UuBsA]SSMIEsCeB}@e@]QGE]Qm@]MI]S]Uo@i@e@u@EKSc@I]GSIq@CIAYCc@@c@B_@?CJeA?CD_@JuATsA@EJa@DQFOJWDGR[XYFIPOJKNGRKLC^I@A`@GFAZERCN?Z@D?RBNDVFHB^NHDnCrBLJZVjB~AJHNLNJJFB@NFXFD@T@P?JAH?XEDAZGBATIDCJGNMBALQDGBEL[FYBSB[?WCOCOCGI]CCO_@GOIOU[AAa@i@KIYW[SA?a@M?Aa@ImA]MESEeAS_@IA?wA]i@[i@c@IM[e@IUm@_B_@gAKOWYIISSEA]SUOCC]Oa@Qg@Sm@WQI]QEAWQCASQCASW?AMWCEAEEKG_@A[AQ?S?UBYNi@Rc@^iAFYBQ@W@WAWAYG[IWKQMS[]m@]GCa@Ks@Qq@OKCUGm@Qy@WQISOMKAAo@q@AAMWEGKSMe@?GCUAM?K@q@@IBc@@KZcA\\q@P_@@Cp@uA@C\\gANs@PwAFyA@KBq@J_AJYLa@?AP]t@}Ab@}@r@{AX_A@EHa@DQBODe@Ba@?c@Ac@AQAQCi@I[COOa@GOg@iAOSk@w@k@y@U[MSGGqAyAOOYYUQ{@c@MGYKaAYi@Ka@K}@M[GEAc@MWKUKIEMIOKKGMOQUCEOWSm@U}@Gu@Bu@@ABa@Bc@Dc@@O@S?U?M?KAKCIEM]q@ACUUWYW[WY_@a@e@o@Oa@AEIg@Ce@A]DW?CJa@Ja@HY@GJa@Pq@LeAB]?c@Ci@?SC[MqBGc@Ec@Gc@CSKq@Ga@Mw@c@uBCOGQWeAACK[[aAMa@CKOs@Ie@?AKaBEy@Kg@Qu@_@iAGWKa@EQIm@Ei@?A?m@Bi@Hk@@IFa@@EH]Lo@FQLa@DMTq@Lc@@EDa@B_@?A?_@?ACc@?IMw@UiAIa@AAG_@Gc@CMKyA?c@?M?UCgA?ACa@?KGg@Ka@O_@MUEGACSQCA]SQMi@Y_@QCAu@_@CAk@YOKKIQO[[Q]KQIUESCSC]@[BW@EHYBE^_AP_@DMr@mAb@w@T[T[BCPYT[R]BCNYP[P_@@ALa@HWBGNg@F[@IBYBSBa@BY@m@@IAYA_@?CAc@Ae@AMEw@Cc@Cc@?AEa@IgACc@Ec@AIQiDA]AEG{AAOE]Km@U}@AEKYEMQYOUGK_@c@g@a@k@YeAUKAa@GEA]AOAS?_@?e@@e@DQBOBE@YFe@NkBx@{Bz@iAXcAVUDqA^e@HY@C?c@@K?y@ImAQ}@SMEQIUMGEYSU[MUKa@Kc@Ec@@K?I@Y@EHa@LYDK`@q@R[DIx@oAHMHMR]FIHUDKH]F]@Y?[Ca@Kg@O_@SYW]]WGEUKIC_@My@KM?gA?a@CMAa@Ia@Q_@SU[a@m@Wi@KQEGOUCCSM]Sc@Qc@K_@IA?eASGA]Gc@OWKYQc@U[YIIiAmA}@_Ao@e@k@[_@M_@Gk@I}BKiACKAa@EKAUE{@OIC_@K]KCA_@OOEIE[QGC[SGEa@c@GIOSEGIMI[CY?CA_@?CDk@DWBKHWpAwBDG^k@DGLSHOHUDUDSBU@WAW?EC]AKCU?AIc@Ga@Gc@QeA?CG_@AI[cCUiBIm@K{@SiBEc@IcAACCy@@q@Bw@?CD_@HeA?C@G@WH}@n@aHJeABk@@_@?g@Cu@CYGYEOWo@w@qA]w@Se@?AIa@EMCSCMA[?[@KD}ANmADUHi@Ha@P_AFi@F_@?CBS@O?G?G?UEo@?AEg@I]I]_@gA[m@ACg@_AMYQ_@GMGQGKGQAACMM_@GUM]?Aq@iCSwAAQAKEc@?ICYE]C[AGI[COK[GOGOEIGKQWKKSOMKKKe@e@KMYa@QWMQEKCGOq@Eq@?a@AML}@Pc@DKFI\\e@ROn@e@FE^QdAi@d@W^Yl@i@TWR[Ri@FWJa@@EBUFaADuADaA@S@OFkB@c@@i@@_@@C@_@?C@O?O@c@@c@@c@BiA?E@]@c@?e@@c@@YAGAiACmBCc@Cc@Cc@Eu@Q{CIy@Eg@C_@Cg@Ck@?C@_ADg@Dc@@MLw@Fc@Hg@D]Hc@DYHk@Dc@BOFu@Dg@@_@Bc@@a@?iA?c@?A?c@?iA@yABq@Ly@ZwAp@eCJg@BW?U?QGg@G]ACGWe@qAw@{B?CM]u@yBe@_BMq@?AMsAIoACW?WBWDa@F_@@CDMHQ@?Ta@PYR[@Al@oATs@F]DQBONeA?AFa@LqAX}BRsBTiCDc@BY@IBc@Dc@Ba@Do@NmABQBQDODSBMPo@HSL]P_@?AT[BGPSNOXYRUNKNKLG\\Q^Sd@WhAi@HGPIJIDCl@g@V_@?AP]LWl@cB@EN_@La@FQDOL_@Ja@L]?C`@_AFQFMRa@Va@NUtAsB@ENYJUL_@F]@O?M@U?EC[AAKa@Qa@Sa@e@m@aAkAa@e@WYSUi@u@CIO_@IOCQG[EY?YBWB_@@EJ]?ARe@T[XWd@_@r@i@p@i@\\a@JSBKDQBOBOBY@YE[CKAGGW?AO_@AEMYM[]m@KQQ_@KSEKO_@ISAMAECS?I?I?QB[@OF[La@R]\\g@PSXYBCn@o@NOPUNUR[T_@`@}@@EH[Ty@Lk@Hc@TcAHc@TgAB_@@E?_@Ak@EWGWEKM_@AC[g@}@kAq@u@i@e@mAu@sAm@}IyDgAi@UOWUMKOUO]m@yACE[{@AEKYAAKe@E[C]Ao@@YDYH[FS@CJWBCHMJMTW^]VSZWZUPOp@g@v@u@VWXa@JSJUJYHY?AHe@D[?E@[Ak@?GC[Cc@?CC_@Cm@?_AB_@?AFY@GH[Tc@V_@VWJMJKt@y@PUVYNQFITYT_@LUBGN_@H]@C@OBSFc@?EF]?CJ[HUBKDIJQ@AXWHILKBANKLEHAVI`@K`@KBAZMJETMRQBCDEPU@CL[HU@KDW?KB]A_@AIOsAGUKa@[m@Y[SSa@Q]OWC_@COAS?]@i@Hq@@O@C?UAIAG?SCEAKCQGa@SWMGE[SWO_Ao@c@[SQU[CAWa@KQ?CGOESAUAU?U?C@MBMNc@L[DGDGRWVQh@UVIfBi@ZKRGVK`@SXSl@e@RQDEp@u@X]f@k@h@u@Xe@Rc@J_@DOBk@?q@Gg@Oq@_@q@c@]]UQKWKCAWGEAYEmAI_AIc@EMAUEWGIC_@OWKuAo@m@]]QMIOK[SSOg@m@a@o@EEIYGMCSESIq@AGA[?g@B_@?ALe@Vk@`@e@X[@CfAiAXYX[VUXWrAmARUV[X_@Rc@HW?ABa@@KAW?QKw@M{@]kB?CGa@SwACQEc@Eo@MuAMq@Oe@KUIMGOaAoB}@iBKQGKs@sAMUGQQ_@ACGYACE_@CM?M?O?K@OBODSFQHSJSJQBCJOJKLKLIHERMd@W^]RY\\o@@AP]LYBEN_@N_@l@}APc@N_@@EXw@?CJe@Hg@@S@WAS?EC]?GE[?AGYAEGQWo@_@_Ai@uAm@yAWq@Q_@O_@o@aBACOYS_@Q]Q_@g@_AQ_@S]Q]e@}@GM[q@k@qA_@uBGWAKGa@Ic@OeAO}@gB}F[s@KUKSIQIKU[CESSW[YYk@o@CCW[iAmAQUEEmAgAq@s@[a@KUQc@EMGSEMQg@GIS]GIOOAAWSAAIGSIA?WKGAQEs@MUCWCG?a@AY@C?[Di@NwA`@_AZMB_@Le@Lo@Dg@?O?UCy@Me@Qq@e@_@]e@i@IIU]IQEGKWAIEMAQE]AW?K?W?G?]?i@?]@U?O?C?_@@c@@kA@[?E@c@?A?Q?O@[A]C]CUAIQ{@K]AA?AQ]CIMUAASYY]UUKIMMYU?A_@UYSAACAUO]SOKMGk@_@MI[UOM}@s@i@u@Yk@GMSi@]eAOa@GSc@mAO_@M]AC]o@IKSW[[e@e@OIm@c@wA}@gAo@?Au@m@SQo@o@GIU[S_@IQ[i@Q_@]o@EMQ_@Qe@K[CIEW?CA_@B]?EBODSFSDMHQHMZ[d@[zB{@t@YHIJKNOHKHS\\o@HOXk@T_@X]b@c@l@Yb@M`@Kb@EB?vAGp@CJ?p@EH?F?PAHAH?VEVCVGRIDA^SRQZ[RW?AN[@AJYLa@Je@RgAFc@Ha@F[@EBSJk@Ha@Fc@@EF[?EBMLq@?GNs@Lc@BG@CBGLS?AJS\\a@@ABERURW@CTWTa@l@eAXq@BEDIBONo@H]?CDUHe@?GDYPqA@_@@YAUCWOa@GSOUKKACSQMGWKa@Mc@GaBOYEg@IQGWKOMMKKIe@g@MMg@s@IMWa@Yc@IMGG_@i@[W[Sg@O_@Ke@I_@IA?KCe@Oa@O[Q[YQO[_@IOIMMYK[EIIUCI]_Ag@iA_@m@GGSSWQQKUMYOg@U]QKGKGMKQMCCEEIKEIMOCGEKIQ?AIUEWCWCYASA_@?q@?c@AiA?UCU?GAIAGAE?AAGAEAEAEEKACEKEIIM?ACCQSSOGGCCGCWKMEKCYGQC}@Gq@GQAKCIAKCQEICKEGEICGEEEAAGEKIMQIMACIOSc@Uq@IWM_@EMISM_@Oc@MUKUEKCCEIMQCCQUAAQSQMGGSMSK[SA?qB{@gBu@_@SQIa@Se@S_Bw@_@Ss@_@k@]{BoAUQg@]iAu@]UKGQKc@Yc@]g@a@OOe@_@YUA?[W[UKKOIc@Ya@WQK_@QECkAo@GE]SOIMK[UCAUUQQGGU[W_@O[CEEKEMIQEOCIIa@EWCOE_@C_@?I?Q?S?O@S?O@OH{ADo@@WRmCBc@Di@FaABc@Dc@HqA?i@A]EU?AGQEOCGKWCIOUOUECMMMGEC]MUIGAWGm@EYCeBKy@O_@KWKAAOGKIA?OMOKMMGIEGKUCCGMCMEMG_@C_@A_@@S?QB]De@Jo@VmBJgA@S?K@M@c@AY?GAIAUCKCSAECIEMEQEMIQEKEEGKCEQUe@c@m@g@q@e@c@a@]]W_@Sa@MYCKQ{@?GCa@AAAg@AuA@sA@eA@iA?c@@e@?c@@u@E_@Ki@KYACO[?AW_@UYIKMMACUUKOIKOSEIQ_@GMEQEMEYAc@?WBQD[BOBIHYHO@ENYN]LWBIBE@EHYBKBO@GBQBU@[?S?KAWCYE]GWIWCGEOa@aAUi@IQEQES?O?E?U@G?IF[FSHSJWHUVm@LYTm@Tm@@GJ]JYFSf@uBLu@Ha@Dg@Be@@U?]C[E_@Mq@WeACSCWAa@@_@Fg@@KBIDW@?La@x@kCJYHWRc@@CLUFGDGRSTKFCLEPELEv@Mb@G`@I`@GB?^I`@IPEp@Q\\IBAbAW`AW`@ONINEVKf@UNIJKn@g@n@o@BCx@s@r@m@XSBCXMJETEHCXC\\@z@Fh@Nh@LXJPBV@PA^CRC@AXIDC^Up@m@xByBn@w@PWDQFUBQBS?kAA_AACCc@Cc@?KEUIc@G[Og@Kc@Q[S_@AC_@a@MMo@m@ECOMKGQKm@U[MkAe@WIk@S_@QYWk@o@g@u@S[AAWYUWAAYQCAQGOEKCUEIAw@BE?sAXQFa@Ja@Ja@Ja@Ha@JYHGBeBd@ODQD}@VE?]Dc@FE@s@Ac@Ky@c@KIu@k@A?[Um@a@MEC?SGICC?GAW?Y?g@?E@C@MB]L_@RaAp@a@ZkA~@EDYXA@o@n@ABA?SVs@v@WVUXWXc@h@KJOPKHMHm@R]H]BK?C?YAGAa@IUI[OYS}@}@AAYUc@_@SKC?IE]K[IQCOC_@CgAIa@CQAaBC[BSBSB[FE@YLURCFUXCDKREHOZGj@CXEb@?BE^?BAJCVC^ANERI`@AB?@M\\CF[f@GFWXC@EDiA|@GDo@d@y@j@w@h@o@j@_@\\ST]b@Wh@W~@KRSd@SZ_@XWLg@PYFi@B_@C_@EE?[KKEQK]Q_@SOIOEi@UaASu@Co@@a@@c@@gABkBFiBHc@B}@BI@}@Dk@Na@LSJGD[TA?S\\CBa@l@Yd@U^oAnAeAdAGDQR[VYVoAnAgAjAi@v@KNcArAa@f@KJk@h@_@\\q@^CBwBbA_@PeAf@g@PQDa@HE@]@C?a@Ay@KoB[g@EcAIA?c@Cg@AaDKiBC}@Gu@Ge@MSEYMYOWWQQQYQe@Ia@CMCSWmBa@gBS}@Ok@Ki@CYAMAUAK@]@]Dc@Hi@Hq@JeADw@CYE]CMEMIQAEm@eAIOS]m@iA]{@IU?AGSKc@Cs@H_A@YNy@Bu@?a@Ag@?ACQGOEWEICEO[]i@Wa@SYUe@I[ESCOAKAG?O?G@C@OBWHSTo@HOJMXU`@]PGHETG\\GZEn@K`@GDAZG\\Gj@Qf@QRKXKvAw@FErAw@v@c@HGHGR[Ta@N{@H[?AHm@BY?A@YBm@CYCSKa@Yk@CEO]M_@Q[c@}@a@s@o@gASWWe@OUMQo@w@OKGE[UYQc@Og@QMCOEOCEAMCUCYCOAiAKYCYCK?cAISC}@GYCk@Gi@EaAAiAHe@H[DmAf@WLu@b@_An@]Pa@JA@u@Di@?k@AS?OAi@C_@IUMUU[i@EKK_@G_@Ce@@m@By@?E?c@?EC]G[Oe@?AS_@GKY[u@g@CAw@a@UIa@OKEeAWaAEk@@K?w@BC@uAFiAHQBg@Bi@DWAI?GCQCEA[IEAa@U_@a@c@s@]q@MSq@}Ak@kAGOGIACc@eAOYQ]MUEGKMIMGIg@c@UQKGQK]KOEICGCe@Kq@CMAo@@cADy@DY?Q?QAQAQASCMEIAQGECIGOOUYq@aAk@m@KMc@[UM[QGAcA[_@Ic@Ia@I]IaB[{@OcACo@@{AH[@c@@gBBaBGm@EmAQ[Gc@Ka@Ia@KCA_Bc@YIGC]QKEq@k@QQOYIOCQEW?Q?e@@QAQC]Gk@GYI_@KWUYu@u@q@k@e@i@YYCEo@eASm@S}@Ew@DkAJiBJ}@B_@?QAQEc@?AG_@K]IUOUe@o@_CyB}AuAkAy@YO]SKG{BuAeAe@GCUKIC_@KOEu@Oc@Ea@EMAUAc@AYAI?gA?gC@_F@i@?W?[CUAEASEs@Qs@U_Aa@ICSKOIICq@_@UOMKKIGGi@s@EGMSMSYi@Sa@gAeCqAiDK[ACm@sBk@cBM]EMGKSa@OSEGQSEESQCC[Sc@SWI]KYEYCIAeA?_CDgBF_ADy@@u@BcBAm@?]AUAMAWCWGOCEAYIAASGQIc@WGE_Aw@KCAAAAcB}AGK[]WWcBgBAAACEGoBoBmAmA{DcEEGgBcBCCiAgAUUg@e@g@c@UOQKOIOGA?g@Qc@Ms@QmDq@_B[cAUMCq@OQEEA[ISIICOIOKGEKIIIKKSUIKEGKSIOMe@CKCOAK?A?M?[?U@]@UDSBOBMDQTy@XeAb@{ABK?AFOp@eCJc@XaAJ]?CJc@H_@La@HWNe@Re@@AFOFK@AJQNUb@k@BCRUDEPUp@s@z@cAd@i@t@w@LOJMf@q@Ve@HSJQHUPc@HWPo@DSD[B[DeA@W@i@?C?UC}C?eA?U@iB@UBWHs@DYH_@Ja@HUFUHSFM@EP]FKFMFIJQXa@RYVWZ[XWlAgAlCeClD_D@AxBqBfB_B^_@LOTWNQNUNWP]HWHSFS@IDOBODa@@W?[?YAa@E_@EYCQESCMMe@AG}@eDK]Mi@ESCQAQASAY?c@@c@@MBQDc@HYLe@Tq@Rg@lBaFL[HWBGTq@Pq@?ARcA@MHq@Bc@B{@?U?]C[C[CSAOEUIa@CKGSCMEOGQEKQc@GOEKOWYc@]c@EIMMKKYWAAu@k@II_Aq@_BiA[U[Ua@W{CyBcAs@WQgAw@g@]GEOIe@]QMWQi@_@sByAw@o@m@e@[W_@_@c@i@[a@EIMSEIEKIQGMM]Y_AOm@G]Ku@?CGy@Em@Cq@EcAAYEu@E{@EkAMoDGqBIgC?GK_EUgHEqAUoH?AMoGGeEAmBAgDEwDCyBAc@?c@AgA?}@?qAAu@?Y@G?K?I?y@AeB@m@AsB?E?c@Ac@?gB?g@?gBAyA?}C?_E?W?K@gC@yC@gAB}ABs@BgAF}C@UB_@@M@M@MBI@KBIBM?ADKFSJUHMFKFMT[DEJMRQLKrCmB`As@NKZUDCLKb@]h@c@lCgCTSFGPQ`C{BXYXWn@i@zGoGnCgCpAqAz@}@VYZ]~AeBDGPQbBgBXYx@}@VYLQLOFMT[@CvAcCRi@Ri@HULe@T_A@GHc@H_@F[FYBQ`@iCHm@BUBMBQB[@WBY?]?]?[?OA_@AYAYEg@CUAEE_@Ms@Os@U_AOo@Ic@I_@ACQu@QoAGa@Es@Ck@AU@y@?[@WB[B_@De@Da@Lw@DYZcB~@wFASLeA?A?IBODiA@G?O@Q?_@?g@@S?WAS?SAYM}BE_A?A?A@IGmACc@GcAEg@Gy@AMM_BIm@AQM{@E[Gc@CKG]GYAEI[?AKa@EOm@{BW}@Ka@_AmDwAuFi@iBm@uBU{@CAAAAAACQi@Si@GOKUMYKQKSAAYc@MUIKIIEEEEIIGGECOMg@]ECUMkDqC_BqAAAAA?AAACEc@a@SWECGGAAU[a@g@IOKOQYUc@c@}@Wo@k@uAEI?CO[m@wAk@iB?A_@oAQ}@I_@?A_@uBKm@EYKi@Q}@GWEOAEI[GQKWAGEIAAGCAAAAACSa@_@m@u@}@OOOOKKMI]Um@]AAAAGGi@Ua@Ms@Sm@Oa@KkEiA}@U_@Mg@QwAi@q@Y}@a@g@UmAg@IEk@UUG_@MKCUGcAWUGaB_@q@SSGeA_@m@S_Bo@yBaAcB{@]QoAu@gAq@a@WUOw@k@_CaBQMIG]U{@o@yBwA]USKIGa@S}@c@SIc@Q[IKESGOEgAWQEUEmAU_@Ei@G_@CKASCSAi@Cq@C}@CkACcBCoACwEIeBCqAEsDIc@CoCGc@AcBGgCGgAEg@Em@CEA]CUCMAoAMgBSq@GiD_@mAKcAIg@Cc@Cw@Ew@EkEMQAuBIaBGUAk@EQAmBMqAIW@C@A?iBIgAGQ?CAI?_@Ce@Ag@AyBIq@Cc@A]AM?aAAwBAsCG_CKkAGOAYAqBKSA{@IOAaDYA?A?AAIEYCYCkKkAwAS_CYiFm@sAOgBSWESCICOCy@SKCOEMGMEUIWKCAMEKG}@c@[Oa@S_@QKEq@Wi@SKEMCc@M}@QmAW{Cm@aAUa@I_@IsCo@gA[a@Mk@S}@i@{CgBmC_BECg@Wi@Y]O[OQGo@Wa@Oi@Qs@SKC}@S_AS_@GcBYkAOMAUC_@Eg@EEA[CG?a@Ee@Cg@CSAC?UAM?E?m@AY?U?k@@S@_@@S@Y@m@D[@kBJoAHM?oBJUBI@aAFm@@eABeAAa@AQAQAy@Ee@EICmGmAaAWq@WcB{@c@]}@u@IK{B{B_@g@_@g@S_@S[AE[i@Qa@Wi@Uw@I_@Sw@QeASuAKq@_@}B_A}GKs@QmAs@eF}@mGSsBCSMaBMcC?IKqBEiACa@GoAKsCCm@Cc@GqACc@Gc@CUEWCISs@aAkCk@aB]gAQcAGYQi@e@_Bm@_BWk@Yi@gCqECKGO_BmCoBcDU_@Wc@[g@g@o@UWWUSQ[Wy@c@SK_Aa@?AeBg@i@I]E_@CYCSA[AU?K?M?Y@i@Ba@D_@B?@k@DgAJmBPuD\\QB_CRq@F_@D_@Be@Be@DS@U@Q?Q@U?S?QA]AG?_@Aw@EOAMCUCYCi@Kk@KWGe@MYIUISG_@OKEi@Ue@WA?SMIG]Si@_@GGUQa@]_@]gAcAaCyBo@i@i@a@KKe@[q@a@}@i@aAe@_@OUKGCc@Mm@Ss@S{@WkF_BuAc@kA_@YIgA]yAe@q@Sk@OKCKC[G[Gq@Ge@G[AG?YAU?C?I?G@E?iEPgFb@uEZqCTy@Fa@DUDk@HcBXq@N_@FmAZ{AZs@P_Ch@u@PsAXQDQDyAXmARwB\\}Cb@qATq@JG@[DSBq@Hw@BQ?SFC?[?m@AYC]CUCYEoAUgCm@sBg@GAuCs@yA_@m@M_@I_@IUEg@MMEw@S{@Sw@S}@UkBi@m@SYIYMyEoAeAW}Bk@YIqA_@]Kq@Oq@OMCUG_AMm@Gi@GQAi@E}@Cg@Ew@Ic@I]GUGWIGCMGUMu@c@WQYQ[U_@Ys@m@}CeCAASQECg@c@USWWo@q@QSA?k@q@WYe@m@_AmAi@w@W_@Uc@a@{@Sg@KYEOY}@Ok@]oAMe@u@wC]sAIc@CQEYEa@Ca@?Y?CAW?g@Bm@Bs@Be@Dm@B_@Ba@J}@Hw@Jq@?CH_@BU@CP{@Pu@Ng@@Cb@}ATq@Vu@Xq@DMHOh@gA?AZo@Xg@tC}F`@w@p@qABGdAmBVa@V]b@m@Za@b@g@t@o@f@c@lA{@jAu@h@]t@g@^WXQBCt@i@VQTSr@s@X]TYLU@CR[N[@CN[?APg@HYJa@He@N{@LeATkCXeBP_B@KFa@BOLu@T}ARqAHc@PeAFa@@GF[Fa@f@oCb@iCPeAD_@DYBS@O@]@a@@a@A]Ag@Eg@?CE[CWCMEOESIa@CKGU[oAeAsDOk@Sq@o@}BMa@GYCGU{@M_@?ASw@Qm@GYGUCSCOCOAKGa@Ca@Ae@A_@A[?_@Bc@@WDa@ReBTkBH{@NgALiANsAXmBNaAP}@V}A\\iBLk@Ha@Ja@@IR{@Ha@`@gBDSBM\\{Af@mBRs@Rm@Xs@Rc@h@eA~@_BhAiBp@iAVc@Vg@b@aAZs@Ts@Ja@Le@FY\\oBPgAt@qELm@XyAZsAT}@FWPu@xB{GdAiDb@_BPq@FWHa@F[ReAJq@TuAD]Fc@@EP{AXuCPcCTwEBc@PeET}EFqAD}@Bc@d@kKFqA@YBc@HkBDeABUNsDPiDAW?EFqAHgB"
+                            },
+                            "start_location": {
+                                "lat": 5.4553581,
+                                "lng": 101.1488753
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "23.7 km",
+                                "value": 23746
+                            },
+                            "duration": {
+                                "text": "23 mins",
+                                "value": 1354
+                            },
+                            "end_location": {
+                                "lat": 6.003738299999999,
+                                "lng": 101.9744855
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>Jalan Panglima Bayu - Rantau Panjang</b>/<wbr/><b>Route 196</b><div style=\"font-size:0.9em\">Continue to follow Jalan Panglima Bayu - Rantau Panjang</div>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "m_pb@arjmRc@?a@@C?U@k@DE@WDI@WBk@JaAXcBj@u@Ro@L]Bo@F[B_@Bq@JYFA?YHC@A@OFMFIDULe@XiAv@u@d@eAh@ULIDeCpAs@ZYN[La@LG@a@He@DYB}EXaDRaCNc@B_@BC?c@FeALmDb@A?c@Fa@HqEt@gLlByF~@{IxAc@Hg@HoIvAE@c@HaBXmBZE?]Fa@H_ANgHfAiDb@_@B_ALYBi@Ba@?e@Ay@Ak@Cu@Ey@Gu@EwKcAoCWsGm@wD_@{@Eq@CY@W?K@[@S@UDA?YHa@Le@No@XA?k@VkClAC@_@NQJKDi@XcD|Ay@\\o@V{@Ze@JE@a@Ja@JkE`AeBb@c@JyCr@sBj@a@JSFMBa@LaAXq@PQDuBl@s@Vq@XID_@N_A`@A@[PYNCB]R]R_@Te@Za@Xc@^C@SRCBGFQVOXk@~@aAbB_@l@EDQTIHa@ZoAfAKFw@l@_@XeCrBWT]^Y\\e@j@Y\\QRmA|A}@bAy@bA}@|@e@^_@Xm@f@iCbBaBdAiBhA{B|A}BnAg@XuAn@sAr@q@^e@Ty@d@kAr@e@XaCxAKD]RMF}@d@OFMBSDQBW@[@U@Q?I?_B@gA@i@@_@@i@Be@F[F]HUFKBgD`AeCt@WHmBh@oA\\iBb@cAR}@RYDm@LWB}@NqBRc@DmANaGh@Q@c@DeAHc@Dy@FsALc@Dc@DuCVo@He@LYJc@Te@X]T]RcAv@MLm@d@kAnAwAdBm@t@KPk@x@AB{@nAa@r@g@t@qApB]`@[TYNYJUFSD[DO@a@D_ETkFTcEJyCL}@DaADoABY@uDN_@BwCHK@g@DaADc@DWBi@Hg@Fs@L]H{@R_AT{@\\cBl@m@V{I`DeDrAiG~Bc@Pe@N_KdEqMtEkBp@yEdB_@PmAd@k@Pe@J[FWDQBM@O@O?W?W?e@Ge@GMCa@I]GaAOe@IsAUo@IKCYCSAU?o@?cAFY@_@Dk@LcCRuCh@SDMDMD_@R]^YV_@Xa@Le@Le@LaANaAJ_CB}CQSCa@G[Ca@GcASoAWw@OSEoEu@uDo@u@SwAS{AQaBOC?iBUwAMOCmBIq@KsC]cCg@{B{@yBeAQKA?oBaBCCk@m@cAgA}@o@m@_@cB{@ECWM_@Qe@W[O[Ia@Gm@GsAEc@A_FEu@Au@CK?IAE?GAKEQESIYS]SYWk@c@WWKMSc@c@cAiB{EoAaDKWSa@Q_@Wa@UWY]c@c@kAeA_CuB_@]k@k@q@u@CAg@e@aAm@uAq@oAu@e@Ys@e@YQ[IWE]Ga@Gc@KOEMGKG[Yc@k@GIo@w@_DmDkAsAa@e@c@m@Wa@AAUWKOKICAQG[Ee@C}CAU?kA?e@Aa@A_@Gk@Ki@Sg@Q[MUKoAi@eAa@{@YGC]Kc@K]Gc@ISCQAw@Ea@AU?S?oA@oABk@@m@?w@CYAOA_AEW@i@@c@DYD]DoB`@sB`@{@PYFo@L]FW@M?KA]Ai@Ga@OYKe@SECw@e@]Um@e@_Am@}CiBqEsC{@i@eBiAsA_AQIMGCAWIMEGAIAWESAW?s@@cA@K?IAOASCOCKCSGKCm@QgAa@wAi@gAe@aAk@a@S_@UUQACGCOQW]Wa@qA}BY_@[]ACOMSS_@We@Q_@K[GOCKCo@Ia@EeAIA?oAKeBKe@CoBOyBSmBQs@GuHi@oIe@cAEgAC{A@oB?_@?_@@s@@s@?kA?kHB}CFmBFw@@a@@O?o@ASAQEICKEGEIIKKMUSg@Ug@Uu@GYIe@CWA]A}@Ek@AUCKCIGSIQ{@cB[i@m@oAOWIQKYIUGUIa@CWE[AEKs@k@cDQy@Oe@M]MWIMKMMMOGSKSGWIUIMGIGGIEGCIAAEOCO?CG{@Em@E[AOEQESIUIOMYMYMYIWGUGYE_@Ca@G_AGc@Ee@?AMw@Ko@Oy@EO{@wDeBuF_BiFy@oCISGMCECGCCEGQO}@{@gB_BUUm@k@MKyCqB}@i@iAo@uCkBUQoHgEy@e@ECm@]a@SEC[Ka@M]IUEUCMAM?WAI?kACo@Ak@@O@c@@Y@y@BcA@"
+                            },
+                            "start_location": {
+                                "lat": 5.821511699999999,
+                                "lng": 101.9678453
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.0 km",
+                                "value": 1049
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 79
+                            },
+                            "end_location": {
+                                "lat": 6.011546200000001,
+                                "lng": 101.9782248
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Jalan Bypass Rantau Panjang</b>/<wbr/><b>Route 196</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "krsc@q{kmRGk@?O?EAY?UAIAMEU?ECKEYIYKWMWOWMQEE]e@IIQKYSa@Ua@Ou@S}@OA?cAOmAQmAMOCg@GgBWsAQu@IyAS{AUcAOIC{A[Q?O?eBYoAQcBS"
+                            },
+                            "start_location": {
+                                "lat": 6.003738299999999,
+                                "lng": 101.9744855
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.7 km",
+                                "value": 655
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 105
+                            },
+                            "end_location": {
+                                "lat": 6.011559399999999,
+                                "lng": 101.9838891
+                            },
+                            "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Jalan Banggol Kulim</b>",
+                            "maneuver": "roundabout-left",
+                            "polyline": {
+                                "points": "ecuc@{rlmRA??@A??@A?A?A@A?A?AAA?A??AA??AA??AA??A?AA??A?A?A?A@??A?A@A?A@??A@?@??A@?@?@?C_@@OHY?E?_@DmH@kC?M?K@y@B_@D_@@EHm@BIFYDWBU?E?UA[Ec@WwAG]Gc@CY"
+                            },
+                            "start_location": {
+                                "lat": 6.011546200000001,
+                                "lng": 101.9782248
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "9.1 km",
+                                "value": 9141
+                            },
+                            "duration": {
+                                "text": "11 mins",
+                                "value": 635
+                            },
+                            "end_location": {
+                                "lat": 5.9979887,
+                                "lng": 102.0605967
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Laluan Persekutuan 3</b>/<wbr/><b>AH18</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "gcuc@ivmmRAQPIpA]fAWVAzAc@|@Wj@QjBg@bAYLEjDw@LETEr@SbD}@nDeA~As@h@_@PKtAgA~@_Ap@q@\\g@JOt@yARg@N[Rk@@AJa@H[@EJg@Fi@Jo@Dg@FuA@e@?[?Q@e@?cAMeMAYIeICkCEuEC}@?IAaCK}FAe@?yAAa@@_AC}@E{AAY?s@AO?WGcECuACgDEsCCeC?e@?IAoB?oDGyBBoB@{A`@sGDy@Di@n@gGtAaJF_@r@aEr@cEDM?GlAcI`AeG@EBOZgBdBmK~@yFp@aEx@wF|@eGJu@D_@?CFk@JaAXoCVmDDc@@O@SFkAB_@Bc@DgAf@eKdAyVXoGLcDBs@Bq@z@kRDm@T}EF_C@QB}@Bo@@kA@_C?[?e@?Y@qA?I?sAAq@CmBCkBEiBA[Cy@Aq@McFEoBCwAAMEgBUeJGaBAk@E}@?KESEeAAoACu@IyC@EBKIwCAs@?GCy@GcB?AGiDEmC"
+                            },
+                            "start_location": {
+                                "lat": 6.011559399999999,
+                                "lng": 101.9838891
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "10.1 km",
+                                "value": 10124
+                            },
+                            "duration": {
+                                "text": "12 mins",
+                                "value": 696
+                            },
+                            "end_location": {
+                                "lat": 6.02994,
+                                "lng": 102.1418953
+                            },
+                            "html_instructions": "Continue straight to stay on <b>Laluan Persekutuan 3</b>/<wbr/><b>AH18</b>",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "mnrc@wu|mRUwHEwBAc@EiAg@oSWsJKuEIyCAsAAq@M_GCeAAc@MiFScIG}BCk@Ci@G{@?MCSOcBAIOsAAIOuASyASqAWwAUeAGWe@oBm@eCmAuESy@mCiKaBqGcBqGI[eEcPc@gBe@eBgAgEGWe@gBoAcFQm@EOEYKKYkAu@sCQi@Mo@K[Sq@AEeAmD?OSe@Yi@m@eA_@m@CESYACs@{@USYWKEECy@q@[SGIk@c@iAq@OKa@K{@_@}@Yq@QOESGCCIEYGmFiAQGo@S{@Wg@Qy@Ma@Ga@ImAYI@CAE?C?YIcBg@YKc@OSIoAo@o@]cAk@UQsBeBgAqA_@g@OSKIWa@Ye@Ym@M]AC_A_C?AAM]y@mA_DO_@KUiAyCwCaIc@mAc@kAeAqCwAqD}@aC_BeEYs@IWsAkDQa@Wq@}@_C_@}@Ws@i@qAUm@Se@GO}AgEQa@iA}CgAwCUm@i@wAM]uBsFm@_B}@_Co@gByAyDO_@MYIOMOCECC?CCCCGEGQe@Wm@Qi@Qe@EKGUACSm@Sk@IUEOEWEQG[EUEWAGAI?C@SWsAc@aCGa@QkAE_@Gc@Eo@E]AWC]Ai@Cu@GqAA]Eu@EcBCaBAqBC{@?IEeBCsAAq@CeAAmAEsA?GCICe@CMA_@Cg@AACc@AICSMoAKs@Ce@OwAKu@Ga@W}AIa@QcA?CAC?EAC?EACEMGUK_@_A{EMi@C]?GAECMCO"
+                            },
+                            "start_location": {
+                                "lat": 5.9979887,
+                                "lng": 102.0605967
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "2.0 km",
+                                "value": 1968
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 133
+                            },
+                            "end_location": {
+                                "lat": 6.0338802,
+                                "lng": 102.1585189
+                            },
+                            "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Jalan Salor - Pasir Mas</b>",
+                            "maneuver": "roundabout-left",
+                            "polyline": {
+                                "points": "cvxc@{qlnRG?MIIKEGEKCKAO@G?EBIBEB_@CSEYM_@Ma@]aAM_@m@eB]aAO_@Ma@{AcEO_@Qg@KYO_@]aAO_@m@aBO_@GQGOc@iAEOCCGOkAwCUg@Qe@Um@Qk@u@sB{@wB_@kA_@mAQs@Ki@E[C_@Ew@Ac@?KHsA@KNkA@_@PqBLcBJuBBOHmBAm@L}AHiADa@JoAJa@Hy@"
+                            },
+                            "start_location": {
+                                "lat": 6.02994,
+                                "lng": 102.1418953
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "11.1 km",
+                                "value": 11069
+                            },
+                            "duration": {
+                                "text": "12 mins",
+                                "value": 697
+                            },
+                            "end_location": {
+                                "lat": 6.0830676,
+                                "lng": 102.2307779
+                            },
+                            "html_instructions": "Keep <b>left</b> to stay on <b>Jalan Salor - Pasir Mas</b>",
+                            "maneuver": "keep-left",
+                            "polyline": {
+                                "points": "wnyc@wyonRJ_BXyDH_BJaAV}DZ{EL}A@QJaBJiAJeADo@?A@a@?]AQEq@QqAe@yDMaACQIw@CMiAuJSyAQmA]_DQaBQ{AUmB_@uC?EQsAkAwJe@yDcAwIYmBgAqF{@yD[uAKe@a@gBe@wBi@cCk@}B_AuE_@_BOq@CQk@cCYkAI_@YoACOIc@CY?AGmAASGeCCy@EaBWsFI_CA]IkCAQIqBEkAAa@AACkACw@Gs@Mg@Y}@ACe@wACIUq@Uo@Qc@M]Wq@u@aC[cA[_ACG]_AcA{CAECIkAwCe@sA}@kC[_Ai@yAWw@Mc@?QCUEa@Aa@@GHu@Hq@?ABIJm@NcAJo@D]@U@YAe@Ce@AWGuAE}@?EEsAEqAIqA?IGgA?IGgAEy@A]AOCY?CCSCOGYAEQu@SWSWWWOMKGSQaHaFsAy@uAcAc@YwC}BoCuB[UoByAEC}C}BaBmAs@k@UW_@u@gAmCcA_CQ]KQOSKMY[AAWSMIc@UGAECEAOAgAAoCIeEGqACqAEu@GMCSCOEICEAw@[c@Qo@Ym@]SQSQ}CqCCCaDuCIIOKm@[KGs@c@w@g@e@[[O]Oo@]KGiBcAqDsBkAo@o@]kDqBGGiDkB_@UoBiAwC_BaCqAwA{@c@WMGGEaAm@GEuAs@w@_@a@UUKi@Y[OECWKMEIE[G_@CYCY@u@D_@BaBNWBy@FI@U@[@W@S?S?A?QA_@Cy@GOCyFk@uBOiCSaCOaEa@mAMe@EmAKyCSiAIw@E]E]CYKa@Qa@Qi@Wo@]oGsDmAs@A?g@[WOa@Wu@a@i@YGEi@]WOiAo@uAw@KG"
+                            },
+                            "start_location": {
+                                "lat": 6.0338802,
+                                "lng": 102.1585189
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.9 km",
+                                "value": 907
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 111
+                            },
+                            "end_location": {
+                                "lat": 6.0849878,
+                                "lng": 102.2383693
+                            },
+                            "html_instructions": "At the roundabout, take the <b>3rd</b> exit and stay on <b>Jalan Salor - Pasir Mas</b>",
+                            "maneuver": "roundabout-left",
+                            "polyline": {
+                                "points": "ebcd@k}}nRA@A@ABC@A?A@A?A@A?C?A?A?A?A?C?AAA?A?AAAAA?AAAAAAAAAA?CAA?A?AAA?A?A?A?A@C?A?A@A?A@A@A?A@A@?@A@A@?@A@?@A@?Qu@Kc@Ic@Ko@EY[aCUcBO_AKs@Ga@k@{DK}@IOa@uCKaAKk@MiA[sB[qBIy@"
+                            },
+                            "start_location": {
+                                "lat": 6.0830676,
+                                "lng": 102.2307779
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "21 m",
+                                "value": 21
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 3
+                            },
+                            "end_location": {
+                                "lat": 6.0851185,
+                                "lng": 102.2385017
+                            },
+                            "html_instructions": "Slight <b>left</b> toward <b>Jalan Kuala Krai</b>/<wbr/><b>Jln Tuan Guru Nik Abdul Aziz</b>/<wbr/><b>Laluan Persekutuan 8</b>/<wbr/><b>Route 8</b>",
+                            "maneuver": "turn-slight-left",
+                            "polyline": {
+                                "points": "encd@yl_oRGIEEEEEC"
+                            },
+                            "start_location": {
+                                "lat": 6.0849878,
+                                "lng": 102.2383693
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3.6 km",
+                                "value": 3602
+                            },
+                            "duration": {
+                                "text": "7 mins",
+                                "value": 421
+                            },
+                            "end_location": {
+                                "lat": 6.117045099999999,
+                                "lng": 102.242198
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>Jalan Kuala Krai</b>/<wbr/><b>Jln Tuan Guru Nik Abdul Aziz</b>/<wbr/><b>Laluan Persekutuan 8</b>/<wbr/><b>Route 8</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "_ocd@sm_oRSAwBCeBAk@AQ?_@?i@?K?qB?S?mA?g@A_CCoBAq@Cc@Ao@GeAIyAIs@GcAKSCUAaAKc@G]Eq@IOC]Ga@IcAUeASyCi@A?gAMYE[Co@Ia@CQAiAI}BOYA_@Au@AI?S?e@AcAEw@Am@AM?{@CqBGe@CqAEsCIi@?S@e@FYDq@Pa@J]HKBy@NG?M@UAWAQCe@ISEu@Mc@K}AYa@Iy@QMCiB]UEs@KaBYe@IQCo@KyAUsDo@_De@EA}@I{@Gg@GKAsBOs@EkAIq@E_@CsBMSA_BMs@GqAMmBOOASASAc@C[CqAE}AAk@AuC?]AeAESAA?q@?i@DQ@"
+                            },
+                            "start_location": {
+                                "lat": 6.0851185,
+                                "lng": 102.2385017
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 490
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 80
+                            },
+                            "end_location": {
+                                "lat": 6.1208816,
+                                "lng": 102.2400732
+                            },
+                            "html_instructions": "Continue straight through <b>Persimpangan Wakaf Siku</b> onto <b>Jln Sultan Ibrahim</b>",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "qvid@wd`oRYJKBYDk@Jc@LSBKBMDGBOFc@P}@f@_Aj@WLw@b@]RkAp@o@\\GDsC|A"
+                            },
+                            "start_location": {
+                                "lat": 6.117045099999999,
+                                "lng": 102.242198
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 535
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 48
+                            },
+                            "end_location": {
+                                "lat": 6.1249544,
+                                "lng": 102.2375012
+                            },
+                            "html_instructions": "Continue straight to stay on <b>Jln Sultan Ibrahim</b>",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "onjd@mw_oROHi@XA?sDpBoAr@eAl@[NWNWNq@^MFi@ZCBE@u@d@KHo@\\MHg@PA@WLe@T"
+                            },
+                            "start_location": {
+                                "lat": 6.1208816,
+                                "lng": 102.2400732
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "79 m",
+                                "value": 79
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 11
+                            },
+                            "end_location": {
+                                "lat": 6.1256328,
+                                "lng": 102.2373152
+                            },
+                            "html_instructions": "Merge onto <b>Bulatan Jam Besar</b>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "}gkd@kg_oRGBIDMBI@MBMBMBWD[@"
+                            },
+                            "start_location": {
+                                "lat": 6.1249544,
+                                "lng": 102.2375012
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "71 m",
+                                "value": 71
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 9
+                            },
+                            "end_location": {
+                                "lat": 6.125823599999999,
+                                "lng": 102.2378125
+                            },
+                            "html_instructions": "Slight <b>right</b> to stay on <b>Bulatan Jam Besar</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                            "maneuver": "turn-slight-right",
+                            "polyline": {
+                                "points": "elkd@gf_oROCGEGCEEEGACACAIAGAE@KBKHM"
+                            },
+                            "start_location": {
+                                "lat": 6.1256328,
+                                "lng": 102.2373152
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "egc`@c|fhRu[vBqSu@ql@k[yo@iNkG}_@}Leg@|Vsf@rGk\\aLyRcm@w]mi@eRxFmj@zz@ogAaCqiCsGwp@sPsh@u}Ae`@waA_TpLu]bGgSyG_S{]gNyt@|l@gXaNwUyA}JvGeNeGgEoLik@rP}h@gCcg@sa@|@s[eL_b@}Ia`@{E_M~FkFgK{d@d@yVpt@aR|e@uHXs_@sh@qRuWwi@qSiVuh@Oe_@}Ju`@k]|LyOrN~ADiKuEuQsReHnFmMd_@gHlIuCcHoPwOaJvF_HzQ_BKgMwCy\\cA{^rQqVyFqI{f@}@_Gg_@}RcWs_@}@cT}PuA_PyIsYeWiX}CwWsV}[qJcWdEa^`P{KrIy\\}J}f@sSuAmCyIoCuj@gAyVpNeLbL}AzOkYg@m^uTq[{\\_NnBwgA}YuXnLsQzTlGkOkO_SaS~@sM{LgGhDo`@`EuPwJePwMkEmAoMmD{]mHyeAqLaRhKkZ{J_a@md@nC`AsY_YcL{^mOxBmXiEgsA}HaYyDyKhLiL~@ge@v@ki@sB}l@nJ}h@`RqUfGaNiHoMvEoUxDgWf@sPm[wVlKmWhTid@oBeLuIWqDgPjOoMcJkJ{MmHv@mKhJcNoFuW`@wTPo_@qTyk@gTySwNtBeHgIyAeVqSaXsRcYvZsPjUul@yk@ae@_QwVuu@mk@{CiZgNeQ{@gVaJk_@uEgf@dEu_@zW_Ph^yNkMiXyZ_AyXbB_Vz@yO|KcYfTgWkAwM~JaTpRqV@eNiMSoQ}Hy\\`QqNnFcMaJwO{a@N_KwCiCqKsSy@mIoKgUcIai@}KkQy`@uJkQaPoFgXeBcLwQiHsLeXIkd@ia@sX_MzX_cAt]_d@y@i[~Eia@qd@g_@cKmcAm@qoAvKke@jr@cs@xDglA{V}hA_e@cx@e~Ayl@{fC{J}iBod@wa@iA}\\uBoPoT{QkvA{c@eg@qe@rBab@qVw~@wGit@rKy|Asf@yNgk@`Yap@hWee@tDmf@{Gcj@nVe|@zUqnA`Dwt@qNm@}h@lNmdBvVubA`Ccq@~Sic@~d@gv@n]kaAnOaSdPm`@rM_lBjf@ah@pAuVxCwg@kHgv@kUih@al@sb@wSqf@}EaTNeZiQa^yQcvA}EcYwq@ePum@gq@k[aVmO}\\qEQSLIr@uWrFuLpd@uPpGyR}A{bBf[mmCtGwzBkDaxAsNmyB_g@{dBwd@iPsUiP{Til@kg@yqAeMwpAk[egAF{hAwL}fBqj@yuCIsf@mr@ur@ql@}Ra|@mf@ct@kDyh@qScJam@wcBaLcdBeKst@|Y"
+            },
+            "summary": "Lebuhraya Timur-Barat/Route 4",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

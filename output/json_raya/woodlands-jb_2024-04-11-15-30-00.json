@@ -1,0 +1,377 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJgzQilUsS2jERUGKDJyTtW6A",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJEcU_vS1t2jERNO3FmN-qrUM",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 1.4799814,
+                    "lng": 103.7710333
+                },
+                "southwest": {
+                    "lat": 1.424056,
+                    "lng": 103.7625336
+                }
+            },
+            "copyrights": "Map data ©2024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "7.1 km",
+                        "value": 7130
+                    },
+                    "duration": {
+                        "text": "15 mins",
+                        "value": 917
+                    },
+                    "duration_in_traffic": {
+                        "text": "20 mins",
+                        "value": 1190
+                    },
+                    "end_address": "2, Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor, Malaysia",
+                    "end_location": {
+                        "lat": 1.479848,
+                        "lng": 103.7643492
+                    },
+                    "start_address": "Bukit Timah Expy, Singapore",
+                    "start_location": {
+                        "lat": 1.424056,
+                        "lng": 103.7710333
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "1.3 km",
+                                "value": 1347
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 63
+                            },
+                            "end_location": {
+                                "lat": 1.4358088,
+                                "lng": 103.7684613
+                            },
+                            "html_instructions": "Head <b>north</b> on <b>Bukit Timah Expy</b>",
+                            "polyline": {
+                                "points": "kcuG}wjxRsCP_BRo@JKBmAR{Dx@_@JOFk@L_Bb@y@P]HIB{Bj@{A\\OD_FnA}AV_ALuBXa@Ds@Fk@Dq@Fk@Dg@BS@U@O@eDDe@@wEBS?"
+                            },
+                            "start_location": {
+                                "lat": 1.424056,
+                                "lng": 103.7710333
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 467
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 54
+                            },
+                            "end_location": {
+                                "lat": 1.4399777,
+                                "lng": 103.7682694
+                            },
+                            "html_instructions": "Take exit <b>10B</b> for <b>Woodlands Ctr Road</b> toward <b>Woodlands Rd</b>",
+                            "maneuver": "ramp-left",
+                            "polyline": {
+                                "points": "ylwG{gjxREDABA?C@E?oCBcDJgE?qDFq@Am@@_@@"
+                            },
+                            "start_location": {
+                                "lat": 1.4358088,
+                                "lng": 103.7684613
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 303
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 82
+                            },
+                            "end_location": {
+                                "lat": 1.4426921,
+                                "lng": 103.7681129
+                            },
+                            "html_instructions": "Continue onto <b>Woodlands Crossing</b>",
+                            "polyline": {
+                                "points": "{fxGufjxRQ?eADc@DWBE@C?E@s@BW@[@}C@A?S?}A@"
+                            },
+                            "start_location": {
+                                "lat": 1.4399777,
+                                "lng": 103.7682694
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.9 km",
+                                "value": 856
+                            },
+                            "duration": {
+                                "text": "3 mins",
+                                "value": 189
+                            },
+                            "end_location": {
+                                "lat": 1.4497322,
+                                "lng": 103.7700228
+                            },
+                            "html_instructions": "Continue straight to stay on <b>Woodlands Crossing</b>",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "ywxGuejxRKCG?I?i@@G?YFa@FUDc@Na@Lc@LODG?I?I?IAOCMEa@M_@MmBs@GCs@Wu@UcCg@_Cm@c@YOYYUKGc@[k@[g@Ya@S_A]OEUEQAUCO?K?GAQCG?S@K@YH"
+                            },
+                            "start_location": {
+                                "lat": 1.4426921,
+                                "lng": 103.7681129
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 550
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 37
+                            },
+                            "end_location": {
+                                "lat": 1.4544495,
+                                "lng": 103.7685465
+                            },
+                            "html_instructions": "Continue onto <b>Johor Cswy</b><div style=\"font-size:0.9em\">Entering Malaysia</div>",
+                            "polyline": {
+                                "points": "yczGsqjxR}@PuAXeE|@iEz@QDgBb@yBd@wCn@"
+                            },
+                            "start_location": {
+                                "lat": 1.4497322,
+                                "lng": 103.7700228
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.8 km",
+                                "value": 836
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 64
+                            },
+                            "end_location": {
+                                "lat": 1.4613922,
+                                "lng": 103.7660298
+                            },
+                            "html_instructions": "Continue onto <b>Johor Cswy</b>/<wbr/><b>AH2</b>",
+                            "polyline": {
+                                "points": "ia{GmhjxRwCn@w@PKBa@LYHULe@R]LMDSHKBMDSDC@]FUDM@I?YBE?_@@o@?[?Q@K?QAG?]@Q?O@w@Bc@JQDWFKBID_@LIB]R_CpAqBdAm@VqAn@"
+                            },
+                            "start_location": {
+                                "lat": 1.4544495,
+                                "lng": 103.7685465
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.0 km",
+                                "value": 974
+                            },
+                            "duration": {
+                                "text": "3 mins",
+                                "value": 167
+                            },
+                            "end_location": {
+                                "lat": 1.4675276,
+                                "lng": 103.7683788
+                            },
+                            "html_instructions": "Take the exit on the <b>right</b>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "ul|GuxixRWBMDKBM@M@_@@a@AI@C?IBGBo@Tc@Pa@TSHA?a@PqAd@KDoA^u@P?@cAT_AVG@E@E?C?CAC?AACEIUwCsGw@mBAECIAE?E?G?EBI@EDK?ABG?E?E?KAMCMGOACO_@S_@KSGGEGUMcAc@KCMCC?EA]Ac@A"
+                            },
+                            "start_location": {
+                                "lat": 1.4613922,
+                                "lng": 103.7660298
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "53 m",
+                                "value": 53
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 5
+                            },
+                            "end_location": {
+                                "lat": 1.4679747,
+                                "lng": 103.7685355
+                            },
+                            "html_instructions": "Keep <b>right</b>",
+                            "maneuver": "keep-right",
+                            "polyline": {
+                                "points": "as}GkgjxROEE?IAOEGAEAYM"
+                            },
+                            "start_location": {
+                                "lat": 1.4675276,
+                                "lng": 103.7683788
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 342
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 30
+                            },
+                            "end_location": {
+                                "lat": 1.4705701,
+                                "lng": 103.7670701
+                            },
+                            "html_instructions": "Keep <b>left</b>",
+                            "maneuver": "keep-left",
+                            "polyline": {
+                                "points": "yu}GkhjxRUGGAEAE?G?G@KBYHMFIFc@XOJKF]T[R_Aj@u@f@C@YP}@l@CBC@EBA?C@C@G?QLE@KD"
+                            },
+                            "start_location": {
+                                "lat": 1.4679747,
+                                "lng": 103.7685355
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "37 m",
+                                "value": 37
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 3
+                            },
+                            "end_location": {
+                                "lat": 1.4708015,
+                                "lng": 103.7668359
+                            },
+                            "html_instructions": "Slight <b>left</b> onto <b>Jalan Lingkaran Dalam</b>/<wbr/><b>Route 188</b>",
+                            "maneuver": "turn-slight-left",
+                            "polyline": {
+                                "points": "af~Ge_jxROP]Z"
+                            },
+                            "start_location": {
+                                "lat": 1.4705701,
+                                "lng": 103.7670701
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 250
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 27
+                            },
+                            "end_location": {
+                                "lat": 1.4720307,
+                                "lng": 103.7649634
+                            },
+                            "html_instructions": "Continue straight to stay on <b>Jalan Lingkaran Dalam</b>/<wbr/><b>Route 188</b>",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "og~Gw}ixRy@bA[b@w@pAKRO\\a@z@IP_@|@"
+                            },
+                            "start_location": {
+                                "lat": 1.4708015,
+                                "lng": 103.7668359
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 527
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 105
+                            },
+                            "end_location": {
+                                "lat": 1.4751304,
+                                "lng": 103.7629374
+                            },
+                            "html_instructions": "Slight <b>left</b>",
+                            "maneuver": "turn-slight-left",
+                            "polyline": {
+                                "points": "eo~G_rixR@B?B?B?@ADGXuAzEc@jAY~@EJI^WHYFOF_@FO@kCc@m@KmAQSCq@K"
+                            },
+                            "start_location": {
+                                "lat": 1.4720307,
+                                "lng": 103.7649634
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 588
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 91
+                            },
+                            "end_location": {
+                                "lat": 1.479848,
+                                "lng": 103.7643492
+                            },
+                            "html_instructions": "Take the ramp onto <b>Jalan Tebrau</b>/<wbr/><b>Laluan Persekutuan 3</b>/<wbr/><b>AH18</b><div style=\"font-size:0.9em\">Pass by Metropolis Tower (on the left)</div>",
+                            "polyline": {
+                                "points": "qb_HkeixR_@Ws@Gy@MsASyEq@AAi@I]G_@KcAM_Cc@yAUoB[UEH_@NB"
+                            },
+                            "start_location": {
+                                "lat": 1.4751304,
+                                "lng": 103.7629374
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "kcuG}wjxRsCP_BR{@NiGlAo@RcFlAqFrA_FnA}AVuDf@sDZ}BLuDF}FDS?EDCBI@oCBcDJgE?qDF_B?q@@iBJg@FkADyDB_CAcA@{@Ny@TeAZWDS?YE}DuA{@[u@UcCg@_Cm@c@YOYYUo@c@sAu@a@S_A]e@KcAEYE[@yDv@oKxByBh@aNvCm@Po@VeBp@m@Nw@Nw@DaEBa@@w@Bc@Ji@LUHi@P}CdB_D|AqAn@WBYH[BaA?M@aA\\yAp@aC|@eCp@kCp@S?EAM[oEaKEOAYJ]B_@Oo@c@_AS[[UoAg@u@Gs@GOAw@W]IKAO@e@LkAt@wGfEOHGBYLQFm@l@uAfBcAdB{AhD@LI^uAzEc@jA_@jAI^WHi@No@H{GeAq@K_@WmBUyIqA}@ScEq@iEq@UEH_@NB"
+            },
+            "summary": "Bukit Timah Expy",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}
